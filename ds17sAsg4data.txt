@@ -1,0 +1,1446 @@
+Knight, Will: Knight@USofA.org: ConfSys.org: United States
+Spyratos, Nicolas: Spyratos@France.org: Universite Paris Sud (Paris XI): France
+Chawathe, Sudarshan: Chawathe@USofA.org: University of Maine, Orono: United States
+Leung, Carson: Leung@Canada.org: University of Manitoba: Canada
+Deshpande, Vivek: Deshpande@India.org: MIT College of Enginnering: India
+De amo, Sandra: De amo@Brazil.org: Universidade Federal de Uberlandia: Brazil
+Osborn, Wendy: Osborn@Canada.org: University of Lethbridge: Canada
+Pardede, Eric: Pardede@Australia.org: La Trobe University: Australia
+Afrati, Foto: Afrati@Greece.org: National Technical University of Athens: Greece
+Terracina, Giorgio: Terracina@Italy.org: University of Calabria: Italy
+Härder, Theo: Härder@Germany.org: Universitat Kaiserslautern: Germany
+Bhavsar, Virendra: Bhavsar@Canada.org: University of New Brunswick: Canada
+Ng, Yiu-kai: Ng@USofA.org: Brigham Young University: United States
+Bernardino, Jorge: Bernardino@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Sadaoui, Samira: Sadaoui@Canada.org: University of Regina: Canada
+Torlone, Riccardo: Torlone@Italy.org: Roma Tre University: Italy
+Passi, Kalpdrum: Passi@Canada.org: Laurentian University of Sudbury: Canada
+Johnson, Julia: Johnson@Canada.org: Laurentian University of Sudbury: Canada
+Babin, Gilbert: Babin@Canada.org: HEC Montreal: Canada
+Abran, Alain: Abran@Canada.org: École de technologie supérieure - Université du Québec: Canada
+Ursino, Domenico: Ursino@Italy.org: University of Reggio Calabria: Italy
+Ojha, Shri: Ojha@India.org: DRDO: India
+Kumar, Naveen: Kumar@India.org: University of Delhi: India
+Golfarelli, Matteo: Golfarelli@Italy.org: University of Bologna: Italy
+Bellahsene, Zohra: Bellahsene@France.org: Universite de Montpellier II: France
+Wu, John: Wu@USofA.org: Lawrence Berkeley National Laboratoty: United States
+Agrawal, R.: Agrawal@India.org: Jawaharlal Nehru University: India
+Veijalainen, Jari: Veijalainen@Finland.org: University of Jyvaskyla: Finland
+Vidyasankar, Krishnamurthy: Vidyasankar@Canada.org: Memorial University of Newfoundland: Canada
+Feng, Ling: Feng@China.org: Tsinghua University: China
+Grumbach, S: Grumbach@France.org: Institut National de Recherche en Informatique: France
+Ulusoy, Ozgur: Ulusoy@Turkey.org: Bilkent University: Turkey
+Buglione, Luigi: Buglione@Italy.org: ETS/Engineering.IT SpA: Italy
+Flesca, Sergio: Flesca@Italy.org: University of Calabria: Italy
+Ng, Wilfred: Ng@Hong Kong.org: Hong Kong University of Science and Technology: Hong Kong
+Kummamuru, Krishna: Kummamuru@India.org: IBM Research - India: India
+Tanca, Letizia: Tanca@Italy.org: POLITECNICO DI MILANO: Italy
+Novikov, Boris: Novikov@Russian Federation.org: A4 Tech: Russian Federation
+Laurent, Dominique: Laurent@France.org: Universite de Cergy-Pontoise: France
+Gerbé, Olivier: Gerbé@Canada.org: HEC Montreal: Canada
+Clouâtre, André: Clouâtre@Canada.org: University of Montreal: Canada
+Gyssens, Marc: Gyssens@Belgium.org: Hasselt University: Belgium
+Fung, Benjamin: Fung@Canada.org: McGill University: Canada
+Grewal, Ratvinder: Grewal@Canada.org: Laurentian University of Sudbury: Canada
+Levene, Mark: Levene@United Kingdom.org: University of London: United Kingdom
+Vargas-solar, Genoveva: Vargas-solar@France.org: Centre National de la Recherche Scientifique: France
+Mcclatchey, Richard: Mcclatchey@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Deters, Ralph: Deters@Canada.org: University of Saskatchewan: Canada
+Unland, Rainer: Unland@Germany.org: Universitat Duisburg-Essen: Germany
+Rau-chaplin, Andrew: Rau-chaplin@Canada.org: Dalhousie University: Canada
+Levesque, Ghislain: Levesque@Canada.org: University of Quebec at Montreal: Canada
+Ramanna, Sheela: Ramanna@Canada.org: University of Winnipeg: Canada
+Makaroff, Dwight: Makaroff@Canada.org: University of Saskatchewan: Canada
+Cuzzocrea, Alfredo: Cuzzocrea@Italy.org: University of Calabria: Italy
+Cicekli, Nihan: Cicekli@Turkey.org: Middle East Technical University: Turkey
+Robillard, Pierre: Robillard@Canada.org: Ecole Polytechnique: Canada
+Tagarelli, Andrea: Tagarelli@Italy.org: University of Calabria: Italy
+Ullman, Jeffrey: Ullman@USofA.org: Stanford University: United States
+Collet, Christine: Collet@France.org: Institut Polytechnique de Grenoble: France
+Ying, Annie: Ying@Canada.org: McGill University: Canada
+Ezeife, Christie: Ezeife@Canada.org: University of Windsor: Canada
+Mandreoli, Federica: Mandreoli@Italy.org: University of Modena: Italy
+Yeh, Laurent: Yeh@France.org: Universite de Versailles Saint-Quentin-en-Yvelines: France
+Houghten, Sheridan: Houghten@Canada.org: Brock University: Canada
+Kobti, Ziad: Kobti@Canada.org: University of Windsor: Canada
+Catal, Cagatay: Catal@Turkey.org: Istanbul Kultur University: Turkey
+Ganguly, Sumit: Ganguly@India.org: Indian Institute of Technology, Kanpur: India
+Sacca', Domenico: Sacca'@Italy.org: University of Calabria: Italy
+Bedi, Punam: Bedi@India.org: University of Delhi: India
+Plaice, John: Plaice@Australia.org: University of New South Wales: Australia
+Candan, K. selcuk: Candan@Reviewer.org: Arizona State University: Reviewer
+Doucet, Anne: Doucet@France.org: Universite Pierre et Marie Curie (Paris VI): France
+Kolins, Jeevaratnam: Kolins@United Kingdom.org: University of Greenwich: United Kingdom
+Muntés-mulero, Victor: Muntés-mulero@Spain.org: Computer Associates Spain: Spain
+D'orazio, Laurent: D'orazio@France.org: Universite Blaise Pascal (Clermont-Ferrand II): France
+Torres, Manuel: Torres@Spain.org: Universidad de Almeria: Spain
+Lee, Wookey: Lee@Korea Republic.org: Inha University: Korea Republic
+Wang, Lixin: Wang@China.org: Donghua University, Shanghai: China
+Pendharkar, Parag: Pendharkar@USofA.org: Pennsylvania State University at Harrisburg - The Capital College: United States
+Klein, Joachim: Klein@Germany.org: Universitat Kaiserslautern: Germany
+Espinola, Roger: Espinola@Germany.org: Humboldt Universitat Berlin: Germany
+Maher, Peter: Maher@USofA.org: Webster University: United States
+Lin, Ted: Lin@Taiwan.org: National Chiao Tung University: Taiwan
+Vassev, Emil: Vassev@Ireland.org: University of Limerick: Ireland
+Noel, Cyprien: Noel@USofA.org: Argilsoft LLC: United States
+Jakupovic, Alen: Jakupovic@Croatia.org: Polytechnic of Rijeka: Croatia
+Brodic, Darko: Brodic@Srebia and Montenegro.org: University of Belgrade: Srebia and Montenegro
+Abd, Ghouraf: Abd@Canada.org: University of Sherbrooke: Canada
+Kush, Ashwani: Kush@India.org: Kurukshetra University: India
+Candrlic, Sanja: Candrlic@Croatia.org: University of Rijeka: Croatia
+Myriam, Fakhri: Myriam@France.org: Universite d'Aix-Marseille III: France
+Thulasiram, Ruppa: Thulasiram@Canada.org: University of Manitoba: Canada
+Fujita, Hamido: Fujita@Japan.org: Iwate Prefectural University: Japan
+Graham, Peter: Graham@Canada.org: University of Manitoba: Canada
+Jeong, Byeong-soo: Jeong@Korea Republic.org: Kyunghee University: Korea Republic
+Komamizu, Takahiro: Komamizu@Japan.org: Tsukuba University: Japan
+Sakr, Sherif: Sakr@Australia.org: University of New South Wales: Australia
+Monnet, Anthony: Monnet@Canada.org: University of Quebec at Montreal: Canada
+Holker, Graham: Holker@Canada.org: Ryerson University: Canada
+Shah heydari, Shahram: Shah heydari@Canada.org: University of Ontario Institute of Technology: Canada
+Schall, Daniel: Schall@Germany.org: Technische Universität Kaiserslautern: Germany
+Villemaire, Roger: Villemaire@Canada.org: University of Quebec at Montreal: Canada
+Hudlet, Volker: Hudlet@Germany.org: Technische Universität Kaiserslautern: Germany
+Seguin, Normand: Seguin@Canada.org: University of Quebec at Montreal: Canada
+Arora, Nidhi: Arora@Korea Republic.org: Inha University: Korea Republic
+Corine, Cauvet: Corine@France.org: Universite d'Aix-Marseille III: France
+Philippe, Ramadour: Philippe@France.org: Universite d'Aix-Marseille III: France
+Roy, Chanchal: Roy@Canada.org: University of Saskatchewan: Canada
+Baweja, Supreet: Baweja@Canada.org: University of Ontario Institute of Technology: Canada
+Kumar, Harshit: Kumar@Korea Republic.org: Seoul National University: Korea Republic
+Robidoux, Nicolas: Robidoux@Canada.org: Laurentian University of Sudbury: Canada
+Chen, Tao: Chen@USofA.org: University of Florida: United States
+Harley, Eric: Harley@Canada.org: Ryerson Polytechnic University: Canada
+Cupitt, John: Cupitt@United Kingdom.org: Imperial College of Science, Technology and Medicine, University of London: United Kingdom
+Mcglothlin, James: Mcglothlin@USofA.org: University of Texas at Dallas: United States
+An, Mingyuan: An@China.org: Chinese Academy of Sciences: China
+Kodama, Toshio: Kodama@Japan.org: Advance Computer Systems, Inc.: Japan
+Shanker, Udai: Shanker@India.org: M. M. M. Engineering College: India
+Babiy, Volodymyr: Babiy@Canada.org: McMaster University: Canada
+Dutil, Daniel: Dutil@Canada.org: École de technologie supérieure - Université du Québec: Canada
+Edgett, Patrick: Edgett@USofA.org: Missouri University of Science and Technology: United States
+Powley, Wendy: Powley@Canada.org: Queen's University: Canada
+Trunfio, Paolo: Trunfio@Italy.org: University of Calabria: Italy
+Pastwa, Alexander: Pastwa@Germany.org: Ruhr-Universitat Bochum: Germany
+Leopold, Jennifer: Leopold@USofA.org: Missouri University of Science and Technology: United States
+Coalter, Alton: Coalter@USofA.org: Missouri University of Science and Technology: United States
+Talia, Domenico: Talia@Italy.org: University of Calabria: Italy
+Suryn, Witold: Suryn@Canada.org: École de technologie supérieure - Université du Québec: Canada
+Comito, Carmela: Comito@Italy.org: University of Calabria: Italy
+Gabriel, Roland: Gabriel@Germany.org: Ruhr-Universitat Bochum: Germany
+Lee, Leong: Lee@USofA.org: Missouri University of Science and Technology: United States
+Dürr, Frank: Dürr@Germany.org: Universitat Stuttgart: Germany
+Rothermel, Kurt: Rothermel@Germany.org: Universitat Stuttgart: Germany
+Fischer, Ulrike: Fischer@Germany.org: Technische Universitat Dresden: Germany
+Garg, Rahul: Garg@Canada.org: McGill University: Canada
+Savary belanger, Olivier: Savary belanger@Canada.org: McGill University: Canada
+Hendren, Laurie: Hendren@Canada.org: McGill University: Canada
+Dubrau, Anton: Dubrau@Canada.org: McGill University: Canada
+Radpour, Soroush: Radpour@Canada.org: McGill University: Canada
+Verbrugge, Clark: Verbrugge@Canada.org: McGill University: Canada
+Li, Jun: Li@Canada.org: McGill University: Canada
+Lucena, Carlos: Lucena@Brazil.org: Pontificia Universidade Catolica do Rio de Janeiro: Brazil
+Aslam, Amina: Aslam@Canada.org: McGill University: Canada
+Chevalier-boisvert, Maxime: Chevalier-boisvert@Canada.org: University of Montreal: Canada
+Kalman, Tibor: Kalman@Germany.org: Georg-August Universitat Gottingen: Germany
+Laval, Gerry: Laval@Canada.org: ConfSys.org: Canada
+Dupuis, Robert: Dupuis@Canada.org: University of Quebec at Montreal: Canada
+Rahman, Arif ur: Rahman@Portugal.org: Universidade do Porto: Portugal
+Jo, Tae-chang: Jo@Korea Republic.org: Inha University: Korea Republic
+Ali, Muhammad: Ali@Pakistan.org: GC University Lahore: Pakistan
+Lawrence, Ramon: Lawrence@Canada.org: University of British Columbia: Canada
+Parida, Laxmi: Parida@USofA.org: IBM Research: United States
+Jenkin, Michael: Jenkin@Canada.org: York University: Canada
+Valtchev, Petko: Valtchev@Canada.org: University of Quebec at Montreal: Canada
+Lofi, Christoph: Lofi@Germany.org: Technische Universitat Carolo-Wilhelmina Braunschweig: Germany
+Balke, Wolf-tilo: Balke@Germany.org: Technische Universitat Carolo-Wilhelmina Braunschweig: Germany
+Armelle natacha, Ndjafa: Armelle natacha@Germany.org: Universitat Passau: Germany
+Wang, Tongyuan: Wang@Canada.org: TechEngine Plus Com: Canada
+Kunsheng, Zhao: Kunsheng@Canada.org: McGill University: Canada
+Nishikawa, Norifumi: Nishikawa@Japan.org: Tokyo University: Japan
+Ou, Yi: Ou@Germany.org: Technische Universität Kaiserslautern: Germany
+Mohammad, Samir: Mohammad@Canada.org: Queen's University: Canada
+Voigt, Hannes: Voigt@Germany.org: Technische Universitat Dresden: Germany
+Herrmann, Kai: Herrmann@Germany.org: Technische Universitat Dresden: Germany
+Kiefer, Tim: Kiefer@Germany.org: Technische Universitat Dresden: Germany
+Lehner, Wolfgang: Lehner@Germany.org: Technische Universitat Dresden: Germany
+Falahiazar, Zeinab: Falahiazar@Iran.org: Islamic Azad University, Tehran South: Iran
+Nagano, Kyoko: Nagano@Japan.org: Kumamoto University: Japan
+Robila, Stefan: Robila@USofA.org: Montclair State University: United States
+Muhammad Fuad, Muhammad Marwan: Muhammad Fuad@Norway.org: University of Tromso: Norway
+Shu, Yanfeng: Shu@Australia.org: CSIRO: Australia
+Aritsugi, Masayoshi: Aritsugi@Japan.org: Kumamoto University: Japan
+Itokawa, Tsuyoshi: Itokawa@Japan.org: Kumamoto University: Japan
+Weiner, Andreas: Weiner@Germany.org: Technische Universität Kaiserslautern: Germany
+Norvag, Kjetil: Norvag@Norway.org: Norwegian University of Science and Technology: Norway
+Neumann, Christoph: Neumann@Germany.org: Friedrich-Alexander Universitat Erlangen-Nurnberg: Germany
+Sunderraman, Rajshekhar: Sunderraman@USofA.org: Georgia State University: United States
+Hauglid, Jon olav: Hauglid@Norway.org: Norwegian University of Science and Technology: Norway
+Irmert, Florian: Irmert@Germany.org: Friedrich-Alexander Universitat Erlangen-Nurnberg: Germany
+Daum, Michael: Daum@Germany.org: Friedrich-Alexander Universitat Erlangen-Nurnberg: Germany
+Fischer, Thomas: Fischer@Germany.org: Friedrich-Alexander Universitat Erlangen-Nurnberg: Germany
+Zhao, Jiwu: Zhao@Germany.org: Universitat Dusseldorf: Germany
+You, Jin-guo: You@China.org: Kunmimg University of Science and Technology: China
+Ahmedi, Lule: Ahmedi@Macedonia.org: See University at Tetovo: Macedonia
+Thion-goasdoué, Virginie: Thion-goasdoué@France.org: Universite Paris-Dauphine (Paris IX): France
+Furfaro, Filippo: Furfaro@Italy.org: University of Calabria: Italy
+Zumpano, Ester: Zumpano@Italy.org: University of Calabria: Italy
+Xing, Zhaowen: Xing@USofA.org: University of Oklahoma: United States
+Soussi, Rania: Soussi@France.org: Ecole centrale Paris: France
+Zheng, Jiping: Zheng@China.org: Nanjing University of Aeronautics and Astronautics: China
+Santos, Ricardo: Santos@Portugal.org: Universidade de Coimbra: Portugal
+Nazir, Sanaullah: Nazir@Ireland.org: National University of Ireland, Galway: Ireland
+Madria, Sanjay: Madria@USofA.org: University of Missouri - Rolla: United States
+Caroprese, Luciano: Caroprese@Italy.org: University of Calabria: Italy
+Lenz, Richard: Lenz@Germany.org: Friedrich-Alexander Universitat Erlangen-Nurnberg: Germany
+Fazzinga, Bettina: Fazzinga@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Thomo, Alex: Thomo@Canada.org: University of Victoria: Canada
+Jajaga, Edmond: Jajaga@Macedonia.org: See University at Tetovo: Macedonia
+Kitasuka, Teruaki: Kitasuka@Japan.org: Kumamoto University: Japan
+Bani-ahmad, Sulieman: Bani-ahmad@Jordan.org: Al-Balqa Applied University: Jordan
+Dong, Aijuan: Dong@USofA.org: Hood College: United States
+Kosch, Harald: Kosch@Germany.org: Universitat Passau: Germany
+Tekaya, Karima: Tekaya@Tunisia.org: Universite de Tunis El Manar: Tunisia
+Gullo, Francesco: Gullo@Italy.org: University of Calabria: Italy
+Fassetti, Fabio: Fassetti@Italy.org: University of Calabria: Italy
+Damigos, Matthew: Damigos@Greece.org: National Technical University of Athens: Greece
+Behrend, Andreas: Behrend@Germany.org: Rheinische Friedrich-Wilhelms Universitat Bonn: Germany
+Ku, Cyril: Ku@USofA.org: William Paterson University: United States
+Jörg, Thomas: Jörg@Germany.org: Technische Universität Kaiserslautern: Germany
+Mazuran, Mirjana: Mazuran@Italy.org: POLITECNICO DI MILANO: Italy
+Kiourtis, Nikos: Kiourtis@Greece.org: National Technical University of Athens: Greece
+Penzo, Wilma: Penzo@Italy.org: University of Bologna: Italy
+Schulz, Jeffery: Schulz@Canada.org: Natural Resources Canada: Canada
+Schoenherr, Sebastian: Schoenherr@Austria.org: Universitat Innsbruck: Austria
+Shoaran, Maryam: Shoaran@Canada.org: University of Victoria: Canada
+Sattler, Kai-uwe: Sattler@Germany.org: Ilmenau University of Technology: Germany
+Orgun, Mehmet: Orgun@Australia.org: Macquarie University: Australia
+Specht, Guenther: Specht@Austria.org: Universitat Innsbruck: Austria
+Thiel, Gunther: Thiel@Austria.org: Smapper Technologies GmbH: Austria
+Peng, Chang-shyh: Peng@USofA.org: California Lutheran University: United States
+Faerber, Franz: Faerber@Germany.org: SAP: Germany
+Plattner, Hasso: Plattner@Germany.org: Hasso-Plattner Institute: Germany
+Marteau, Pierre-françois: Marteau@France.org: Universite de Bretagne Sud: France
+Gruenwald, Le: Gruenwald@USofA.org: University of Oklahoma: United States
+Madduri, Kamesh: Madduri@USofA.org: Lawrence Berkeley National Laboratoty: United States
+Rundensteiner, Elke: Rundensteiner@USofA.org: Worcester Polytechnic Institute: United States
+Conrad, Stefan: Conrad@Germany.org: Heinrich-Heine Universitat Dusseldorf: Germany
+Brajczuk, Dale: Brajczuk@Canada.org: University of Manitoba: Canada
+Greco, Sergio: Greco@Italy.org: University of Calabria: Italy
+Song, Seokil: Song@Korea Republic.org: Chung-Ju National University: Korea Republic
+Zhang, Charles: Zhang@China.org: Shanghai University of Science and Technology: China
+Chong, Didier: Chong@Canada.org: Casio Computer: Canada
+Resende, Rodolfo: Resende@Reviewer.org: Universidade Federal de Minas Gerais: Reviewer
+Yang, Hsin-chang: Yang@Taiwan.org: National University of Kaohsiung: Taiwan
+Šaltenis, Simonas: Šaltenis@Denmark.org: Aalborg University: Denmark
+Groppe, Sven: Groppe@Germany.org: Medizinische Universitat Lubeck: Germany
+Santos, Igor: Santos@Spain.org: Universidad de Deusto: Spain
+Zurutuza, Urko: Zurutuza@Spain.org: Mondragon Univertsitatea: Spain
+Linnemann, Volker: Linnemann@Germany.org: Medizinische Universitat Lubeck: Germany
+Pinto, David: Pinto@Mexico.org: Benemerita Universidad Autonoma de Puebla: Mexico
+Laurent, Anne: Laurent@France.org: Universite de Montpellier II: France
+Papatheodorou, Christos: Papatheodorou@Greece.org: Ionian University Corfu: Greece
+Dobbie, Gillian: Dobbie@New Zealand(Aotearoa).org: University of Auckland: New Zealand(Aotearoa)
+Gergatsoulis, Manolis: Gergatsoulis@Greece.org: Ionian University Corfu: Greece
+Wang, Junhu: Wang@Australia.org: Griffith University: Australia
+Moon, Yang-sae: Moon@Korea Republic.org: Kangwon National University: Korea Republic
+Savonnet, Marinette: Savonnet@France.org: Universite de Bourgogne: France
+Ilarri, Sergio: Ilarri@Spain.org: Universidad de Zaragoza: Spain
+Rege, Manjeet: Rege@USofA.org: Rochester Institute of Technology: United States
+Lopez-martin, Cuauhtemoc: Lopez-martin@Mexico.org: Universidad de Guadalajara: Mexico
+Moldt, Daniel: Moldt@Germany.org: Universitat Hamburg: Germany
+Amagasa, Toshiyuki: Amagasa@Japan.org: Tsukuba University: Japan
+Chen, Cindy: Chen@USofA.org: University of Massachusetts at Lowell: United States
+Baumeister, Hubert: Baumeister@Denmark.org: Technical University of Denmark: Denmark
+Hao, Wei: Hao@USofA.org: Northern Kentucky University: United States
+Chen, Shu-ching: Chen@USofA.org: Florida International University: United States
+Fei, Zongming: Fei@USofA.org: University of Kentucky: United States
+Molina, Jose: Molina@Spain.org: Universidad Carlos III de Madrid: Spain
+Ilieva, Sylvia: Ilieva@Bulgaria.org: Sofia University St. Kliment Ohridski: Bulgaria
+Jasani, Hetal: Jasani@USofA.org: Northern Kentucky University: United States
+Cheng, Qiang: Cheng@USofA.org: Southern Illinois University at Carbondale: United States
+Supakkul, Sam: Supakkul@USofA.org: University of Texas at Dallas: United States
+Skotiniotis, Therapon: Skotiniotis@USofA.org: Amazon.com Inc: United States
+Campan, Alina: Campan@USofA.org: Northern Kentucky University: United States
+Zeng, Xiao-jun: Zeng@United Kingdom.org: University of Manchester: United Kingdom
+Dueñas lópez, Juan: Dueñas lópez@Spain.org: Universidad Politecnica de Madrid: Spain
+Chen, Yuting: Chen@China.org: Shanghai Jiaotong University: China
+De antonellis, Valeria: De antonellis@Italy.org: University of Brescia: Italy
+Wang, Hui: Wang@USofA.org: Stevens Institute of Technology: United States
+De florio, Vincenzo: De florio@Belgium.org: Universiteit Antwerpen: Belgium
+Takasu, Atsuhiro: Takasu@Japan.org: National Institute of Informatics: Japan
+Hwang, San-yih: Hwang@Taiwan.org: National Sun Yat-Sen University: Taiwan
+Lin, Xuemin: Lin@Australia.org: University of New South Wales: Australia
+Bellur, Umesh: Bellur@India.org: Indian Institute of Technology, Bombay: India
+Teufel, Stephanie: Teufel@Switzerland.org: University of Fribourg: Switzerland
+Rauterberg, Matthias: Rauterberg@Netherlands.org: Eindhoven University of Technology: Netherlands
+Kacprzyk, Janusz: Kacprzyk@Poland.org: Warsaw School of Information Technology: Poland
+Yu, Xiaohui: Yu@China.org: Shandong University: China
+Portilla flores, Alberto: Portilla flores@Mexico.org: Universidad Autonoma de Tlaxcala: Mexico
+Liu, Chuan-ming: Liu@Taiwan.org: National Taipei University of Technology: Taiwan
+Ramos, Isidro: Ramos@Spain.org: Universidad Politecnica de Valencia: Spain
+Robbes, Romain: Robbes@Chile.org: Universidad de Chile: Chile
+Vieira, Marco: Vieira@Portugal.org: Universidade de Coimbra: Portugal
+David, Gabriel: David@Portugal.org: Universidade do Porto: Portugal
+Filipe, Joaquim: Filipe@Portugal.org: Instituto Politecnico de Setubal: Portugal
+Furtado, Pedro: Furtado@Portugal.org: Universidade de Coimbra: Portugal
+Collet, Philippe: Collet@France.org: Universite de Nice-Sophia Antipolis: France
+Vahid alizadeh dizaj, Mohammad: Vahid alizadeh dizaj@Iran.org: Payame Noor University: Iran
+Li, Wei: Li@USofA.org: IBM: United States
+Kwatra, Divya: Kwatra@India.org: University of Delhi: India
+Moro, Mirella: Moro@Brazil.org: Universidade Federal de Minas Gerais: Brazil
+Landhäußer, Mathias: Landhäußer@Germany.org: Karlsruhe Institute of Technology: Germany
+Belo, Orlando: Belo@Portugal.org: Universidade do Minho: Portugal
+Xiao fang, Lou: Xiao fang@China.org: National University of Defense Technology: China
+Filipe, Porfírio: Filipe@Portugal.org: Instituto Superior de Engenharia de Lisboa: Portugal
+Fengxing, Zou: Fengxing@China.org: National University of Defense Technology: China
+Ferreira, Joao: Ferreira@Portugal.org: Instituto Politecnico de Lisboa: Portugal
+Dehra, Himanshu: Dehra@Canada.org: McGill University: Canada
+Revesz, Peter: Revesz@USofA.org: University of Nebraska - Lincoln: United States
+Al-fedaghi, Sabah: Al-fedaghi@Kuwait.org: Kuwait University: Kuwait
+Noureddine, Kerzazi: Noureddine@Canada.org: Polytechnic School of Montreal: Canada
+Mazaheri, Samaneh: Mazaheri@Iran.org: Zanjan Institute for Advanced Studies in Basic Sciences: Iran
+Chen, Xin: Chen@USofA.org: University of Hawaii - Manoa: United States
+Lavoie, Luc: Lavoie@Canada.org: University of Sherbrooke: Canada
+Odirih, Ikechukwu: Odirih@Nigeria.org: Abia State University: Nigeria
+Ortin, Francisco: Ortin@Spain.org: Universidad de Oviedo: Spain
+Rodriguez, Miguel: Rodriguez@Spain.org: Universidad de Oviedo: Spain
+Villavicencio, Gustavo: Villavicencio@Argentina.org: Universidad Catolica de Santiago del Estero: Argentina
+Penniston, Anthony: Penniston@Canada.org: Ryerson Polytechnic University: Canada
+Tayebi, Rohollah: Tayebi@Iran.org: Islamic Azad University, Region One: Iran
+Sakthivelu, Rathinavelu: Sakthivelu@India.org: Pondicherry University: India
+Qiao, Sanzheng: Qiao@Canada.org: McMaster University: Canada
+Jaiswal, Ajay: Jaiswal@India.org: Jawaharlal Nehru University: India
+I, Ravi: I@India.org: Jawaharlal Nehru Technological University: India
+Perwaiz, Nazia: Perwaiz@Pakistan.org: National University of Science and Technology: Pakistan
+Venkatakrishnan, Roopak: Venkatakrishnan@India.org: Anna University: India
+Osborn, Sylvia: Osborn@Canada.org: University of Western Ontario: Canada
+Al qataberi, Aiman: Al qataberi@Russian Federation.org: Volgograd State Technical University: Russian Federation
+Asaduzzaman, Muhammad: Asaduzzaman@Canada.org: University of Saskatchewan: Canada
+Mesquita, Marcio: Mesquita@Brazil.org: Universidade de Fortaleza: Brazil
+Al-harbi, Aiman: Al-harbi@Canada.org: University of Waterloo: Canada
+Mahler, Shira: Mahler@USofA.org: Pennsylvania State University: United States
+Stelldinger, Peer: Stelldinger@USofA.org: International Computer Science Institute: United States
+Roggio, Robert: Roggio@USofA.org: University of North Florida: United States
+Griep, Mark: Griep@USofA.org: University of Nebraska - Lincoln: United States
+Al maghayreh, Eslam: Al maghayreh@Jordan.org: Yarmouk University: Jordan
+Evermann, Joerg: Evermann@Canada.org: Memorial University of Newfoundland: Canada
+Landry, Jean-françois: Landry@Canada.org: University of Sherbrooke: Canada
+Fiech, Adrian: Fiech@Canada.org: Memorial University of Newfoundland: Canada
+Shojaati, N: Shojaati@Iran.org: Isfahan University: Iran
+Shcherbakov, Maxim: Shcherbakov@Russian Federation.org: Volgograd State Technical University: Russian Federation
+Al gunaid, Mohammed: Al gunaid@Russian Federation.org: Volgograd State Technical University: Russian Federation
+Zaiane, Osmar: Zaiane@Canada.org: University of Alberta: Canada
+Alam, Mohammad: Alam@Canada.org: University of Windsor: Canada
+Tilsner, Matthias: Tilsner@Germany.org: Fachhochschule Mannheim, Hochschule fur Technik und Gestaltung: Germany
+Samuel, Hamman: Samuel@Canada.org: University of Alberta: Canada
+Turcotte, Adam: Turcotte@Canada.org: Laurentian University of Sudbury: Canada
+Patel, Sonal: Patel@Canada.org: University of Alberta: Canada
+Mathur, Dhrupad: Mathur@United Arab Emirates.org: SPJCenter of Management: United Arab Emirates
+Tang, Jinshan: Tang@USofA.org: Alcorn State University: United States
+Gondra, Iker: Gondra@Canada.org: St. Francis Xavier University: Canada
+Robert, Nicole: Robert@Canada.org: University of Quebec Abitibi-Temiscamingue: Canada
+Annadurai, Ajitha: Annadurai@India.org: Anna University: India
+Oladipo, Francisca: Oladipo@Nigeria.org: Nnamdi Azikiwe University: Nigeria
+Pager, David: Pager@USofA.org: University of Hawaii - Manoa: United States
+Weischedel, Biggi: Weischedel@Canada.org: University of British Columbia: Canada
+Akorede, Sodiq: Akorede@Nigeria.org: Lagos State University: Nigeria
+Zhang, Ying: Zhang@Netherlands.org: CWI: Netherlands
+Nguyen, Huu hoa: Nguyen@France.org: Université de Lyon: France
+Torres-solis, Jorge: Torres-solis@Canada.org: University of Toronto: Canada
+Pïrotte, Alain: Pïrotte@Belgium.org: Universite Catholique de Louvain: Belgium
+Mitchell, Scott: Mitchell@USofA.org: Sandia National Laboratories: United States
+Chiu, David: Chiu@USofA.org: University of Puget Sound: United States
+Rahman, Mahbubur: Rahman@USofA.org: Texas Tech University: United States
+Gruenheid, Anja: Gruenheid@USofA.org: Georgia Institute of Technology: United States
+Salman, Muhammad: Salman@Pakistan.org: Hamdard University: Pakistan
+Selmaoui-folcher, Nazha: Selmaoui-folcher@New Caledonia.org: University of New Caledonia: New Caledonia
+Kaneko, Keiichi: Kaneko@Japan.org: Tokyo University of Agriculture and Technology: Japan
+Kumar, Nitin: Kumar@India.org: Jawaharlal Nehru University: India
+Moreno, María: Moreno@Spain.org: Universidad de Salamanca: Spain
+Vieira, Sérgio: Vieira@Brazil.org: Universidade Federal de Santa Catarina: Brazil
+Minhas, Umar farooq: Minhas@Canada.org: University of Waterloo: Canada
+Barguñó, Luis: Barguñó@Spain.org: Universidad Politecnica de Cataluna: Spain
+Behera, Rasananda: Behera@USofA.org: CheckFree Corporation: United States
+Coulombe, Stéphane: Coulombe@Canada.org: École de technologie supérieure - Université du Québec: Canada
+Wzd, Wzd: Wzd@China.org: Beijing University of Aeronautics and Astronautics: China
+Baumgaertel, Philipp: Baumgaertel@Germany.org: Friedrich-Alexander Universitat Erlangen-Nurnberg: Germany
+Pollner, Niko: Pollner@Germany.org: Friedrich-Alexander Universitat Erlangen-Nurnberg: Germany
+Meyer-wegener, Klaus: Meyer-wegener@Germany.org: Friedrich-Alexander-Universität Erlangen-Nürnberg: Germany
+Elgamal, Neveen: Elgamal@Egypt.org: Cairo University: Egypt
+Lomet, David: Lomet@USofA.org: Microsoft: United States
+Tausch, Norbert: Tausch@Germany.org: Friedrich-Alexander-Universität Erlangen-Nürnberg: Germany
+Thekkath, Chandramohan: Thekkath@USofA.org: Microsoft: United States
+El bastawissy, Ali: El bastawissy@Egypt.org: Cairo University: Egypt
+Dorneles, Carina: Dorneles@Brazil.org: Universidade Federal de Santa Catarina: Brazil
+Mello, Ronaldo: Mello@Brazil.org: Universidade Federal de Santa Catarina: Brazil
+Savnik, Iztok: Savnik@Slovenia.org: Univerza na Primorskem: Slovenia
+Keramopoulos, Euclid: Keramopoulos@Greece.org: Technological Education Institute of Thessaloniki: Greece
+Kabir, Farhana: Kabir@USofA.org: Washington State University, Vancouver: United States
+Randeni kadupitige, Sidath: Randeni kadupitige@Australia.org: University of Sydney: Australia
+Agrawal, Gagan: Agrawal@USofA.org: Ohio State University: United States
+Valduriez, Patrick: Valduriez@France.org: Institut National de Recherche en Informatique: France
+Dominguez-sal, David: Dominguez-sal@Spain.org: Universidad Politecnica de Cataluna: Spain
+Greco, Gianluigi: Greco@Italy.org: University of Calabria: Italy
+Philippsen, Michael: Philippsen@Germany.org: Friedrich-Alexander-Universität Erlangen-Nürnberg: Germany
+Adersberger, Josef: Adersberger@Germany.org: QAware GmbH: Germany
+Chen, Jianwen: Chen@China.org: Tsinghua University: China
+Costa, Gianni: Costa@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Zhao, Hongtao: Zhao@Canada.org: Laurentian University of Sudbury: Canada
+Mark, Leo: Mark@USofA.org: Georgia Institute of Technology: United States
+Omiecinski, Edward: Omiecinski@USofA.org: Georgia Institute of Technology: United States
+Sadik, Shiblee: Sadik@USofA.org: University of Oklahoma: United States
+López, Vivian: López@Spain.org: Universidad de Salamanca: Spain
+Mokadem, Riad: Mokadem@France.org: Universite Paul Sabatier (Toulouse III): France
+Macedo, Jose Antonio: Macedo@Brazil.org: Universidade Federal do Ceara: Brazil
+Ortale, Riccardo: Ortale@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Shahid, Muhammad: Shahid@Pakistan.org: Pakistan International Airline: Pakistan
+Tsogkas, Vassilis: Tsogkas@Greece.org: University of Patras: Greece
+Masciari, Elio: Masciari@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Bouras, Christos: Bouras@Greece.org: University of Patras: Greece
+Bellatreche, Ladjel: Bellatreche@Reviewer.org: Universite de Poitiers: Reviewer
+Ribeiro, Leonardo: Ribeiro@Brazil.org: Universidade Federal de Lavras: Brazil
+Goncalves, Rodrigo: Goncalves@Brazil.org: Universidade Federal de Santa Catarina: Brazil
+D'agostini, Caio: D'agostini@Brazil.org: Universidade Federal de Santa Catarina: Brazil
+Mani, Murali: Mani@USofA.org: University of Michigan - Flint: United States
+Alawa, Mohamad: Alawa@USofA.org: University of Michigan - Flint: United States
+Costa, João: Costa@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Pequeno, Valéria: Pequeno@Portugal.org: Instituto de Engenharia de Sistemas e Computadores: Portugal
+Desmier, Elise: Desmier@New Caledonia.org: University of New Caledonia: New Caledonia
+Flouvat, Frederic: Flouvat@New Caledonia.org: University of New Caledonia: New Caledonia
+Bouzaidi, Najlae: Bouzaidi@Morocco.org: Universite Mohammed V - Agdal: Morocco
+Moura pires, João: Moura pires@Portugal.org: Universidade Nova de Lisboa: Portugal
+Adachi, Jun: Adachi@Japan.org: National Institute of Informatics: Japan
+Bianchini, Devis: Bianchini@Italy.org: University of Brescia: Italy
+Tsekos, Konstantinos: Tsekos@Greece.org: Technological Education Institute of Thessaloniki: Greece
+Ritacco, Ettore: Ritacco@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Bobineau, Christophe: Bobineau@France.org: Institut National Polytechnique de Grenoble: France
+Darmont, Jérôme: Darmont@France.org: Université de Lyon: France
+Shestakov, Denis: Shestakov@Finland.org: Aalto University: Finland
+Wadii, Hadi: Wadii@Morocco.org: Universite Mohammed V - Souissi: Morocco
+Evangelidis, Georgios: Evangelidis@Greece.org: University of Macedonia: Greece
+Jørgensen, Martin: Jørgensen@Denmark.org: Aalborg University: Denmark
+Lifschitz, Sergio: Lifschitz@Brazil.org: Pontificia Universidade Catolica do Rio de Janeiro: Brazil
+Khan, Latifur: Khan@USofA.org: University of Texas at Dallas: United States
+Mitschang, Bernhard: Mitschang@Germany.org: Universitat Stuttgart: Germany
+Ansari, Reza: Ansari@Iran.org: Guilan University: Iran
+Galal-edeen, Galal: Galal-edeen@Egypt.org: Cairo University: Egypt
+Gay, Dominique: Gay@France.org: France Telecom: France
+Ayadi, Yassine: Ayadi@Tunisia.org: Universite de Sfax: Tunisia
+Melchiori, Michele: Melchiori@Italy.org: University of Brescia: Italy
+Brilhante, Igo: Brilhante@Brazil.org: Universidade Federal do Ceara: Brazil
+Casanova, Marco: Casanova@Brazil.org: Pontificia Universidade Catolica do Rio de Janeiro: Brazil
+Taher, Khalid: Taher@Saudi Arabia.org: Saudi Arabian mining company - Ma'aden: Saudi Arabia
+Markiegi-gonzalez, Urtzi: Markiegi-gonzalez@Spain.org: Mondragon Univertsitatea: Spain
+Surdu, Sabina: Surdu@Romania.org: Babes-Bolyai University of Cluj-Napoca: Romania
+Parisi, Francesco: Parisi@Italy.org: University of Calabria: Italy
+Tekinaslan, Köksal: Tekinaslan@Turkey.org: STM: Turkey
+Caniban, Laurence: Caniban@Saudi Arabia.org: Saudi Arabian mining company - Ma'aden: Saudi Arabia
+Hariri, Abdulraheem: Hariri@Saudi Arabia.org: Saudi Arabian mining company - Ma'aden: Saudi Arabia
+Jebeil, Ali: Jebeil@Saudi Arabia.org: Saudi Arabian mining company - Ma'aden: Saudi Arabia
+Kersten, Martin: Kersten@Netherlands.org: CWI: Netherlands
+Trajcevski, Goce: Trajcevski@USofA.org: Northwestern University: United States
+Nes, Niels: Nes@Netherlands.org: CWI: Netherlands
+Day, David: Day@USofA.org: Sandia National Laboratories: United States
+Boussaid, Omar: Boussaid@France.org: Université de Lyon: France
+Scuturici, Vasile-marian: Scuturici@France.org: Institut National des Sciences Appliquees de Lyon: France
+Catarci, Tiziana: Catarci@Italy.org: University of Roma La Sapienza: Italy
+Gaspar Da Silva, Mário: Gaspar Da Silva@Portugal.org: Universidade Tecnica de Lisboa: Portugal
+Santos, Fernando: Santos@Portugal.org: Universidade Tecnica de Lisboa: Portugal
+Mabroukeh, Nizar: Mabroukeh@Canada.org: University of Windsor: Canada
+Myriam, Abdessemed: Myriam@Algeria.org: Universite d'Annaba: Algeria
+Pottinger, Rachel: Pottinger@Canada.org: University of British Columbia: Canada
+Bella, Isa: Bella@India.org: Karunya Institute Of Technology: India
+Kaur, Manpreet: Kaur@India.org: National Institute of Technology - Jalandhar: India
+Pokorny, Jaroslav: Pokorny@Czech Repubilc.org: Charles University Prague: Czech Repubilc
+Ne?aský, Martin: Ne?aský@Czech Repubilc.org: Charles University Prague: Czech Repubilc
+Smida, Abdallah: Smida@Algeria.org: Universite des Sciences et de la Technologie Houari Boumediene: Algeria
+Repa, Vaclav: Repa@Czech Repubilc.org: University of Economics Prague: Czech Repubilc
+Holubova (mlynkova), Irena: Holubova (mlynkova)@Czech Repubilc.org: Charles University Prague: Czech Repubilc
+Mohapatra, Abhijeet: Mohapatra@USofA.org: Stanford University: United States
+Guehis, Sonia: Guehis@France.org: Universite Paris Nanterre (Paris X): France
+Cheng, Jie: Cheng@USofA.org: University of Hawaii - Hilo: United States
+Zhang, Daqiang: Zhang@China.org: Nanjing Normal University: China
+Webb, Hazel: Webb@Canada.org: University of New Brunswick, Saint John: Canada
+Elkhalifa, Islam: Elkhalifa@Sweden.org: Blekinge Institute of Technology: Sweden
+Aaaa, Adada: Aaaa@USofA.org: A.D.A.M. Inc.: United States
+Al-kateb, Mohammed: Al-kateb@USofA.org: University of Vermont: United States
+Ghoreishi, Sahar: Ghoreishi@Iran.org: K.N.Toosi University of Technology: Iran
+Keller, Joaquin: Keller@France.org: France Telecom: France
+Pullum, Laura: Pullum@USofA.org: Oak Ridge National Laboratory: United States
+Mehan, Vineet: Mehan@India.org: Nagpur University: India
+Hevia, Gustavo: Hevia@Canada.org: IBM: Canada
+Sazvar, Majid: Sazvar@Iran.org: Ferdowsi University of Mashhad: Iran
+Zota, Razvan: Zota@Romania.org: Academy of Economic Studies: Romania
+Onashoga, Adebukola: Onashoga@Nigeria.org: University of Agriculture Abeokuta: Nigeria
+Fuangkhon, Piyabute: Fuangkhon@Thailand.org: Assumption University of Thailand: Thailand
+Soleimani, Ahmad: Soleimani@Canada.org: University of Windsor: Canada
+Gugale, Rohit: Gugale@India.org: University of Pune: India
+Alam, Fahim: Alam@Canada.org: St. Francis Xavier University: Canada
+Khosravi, Atefeh: Khosravi@Iran.org: Islamic Azad University, North Tehran: Iran
+Ketout, Hussin: Ketout@Canada.org: Dalhousie University: Canada
+Agarwal, Shikha: Agarwal@India.org: University of Delhi: India
+Weyns, Danny: Weyns@Sweden.org: Vaxjo University: Sweden
+Iftikhar, Muhammad: Iftikhar@Sweden.org: Vaxjo University: Sweden
+De nicola, Rocco: De nicola@Italy.org: IMT Institute for Advanced Studies, Lucca: Italy
+Miura, Takao: Miura@Japan.org: Hosei University: Japan
+Rouff, Christopher: Rouff@USofA.org: Near Infinity Corporation: United States
+Agrawal, Deepak: Agrawal@India.org: Vivekanand Education Society Institute of Technology: India
+Naghibzadeh, Mahmoud: Naghibzadeh@Iran.org: Ferdowsi University of Mashhad: Iran
+Shershakov, Sergey: Shershakov@Russian Federation.org: Higher School of Economics: Russian Federation
+Schmiegelt, Philip: Schmiegelt@Germany.org: Fraunhofer FKIE: Germany
+Roberts, Patricia: Roberts@United Kingdom.org: University of Brighton: United Kingdom
+Tanprasert, Thitipong: Tanprasert@Thailand.org: Assumption University of Thailand: Thailand
+Lehrack, Sebastian: Lehrack@Germany.org: Brandenburgische Technische Universitat Cottbus: Germany
+Imamura, Makoto: Imamura@Japan.org: Mitsubishi Electric Corporation: Japan
+Ndaohialy manda-vy, Ravonimanantsoa: Ndaohialy manda-vy@Madagascar.org: University of Antananarivo: Madagascar
+Genesereth, Michael: Genesereth@USofA.org: Stanford University: United States
+Loreti, Michele: Loreti@Italy.org: University of Florence: Italy
+Pozzani, Gabriele: Pozzani@Italy.org: University of Verona: Italy
+Sartiani, Carlo: Sartiani@Italy.org: University of Basilicata: Italy
+Chen, Shih-pin: Chen@Taiwan.org: National Chung Cheng University: Taiwan
+Tian, Zhaofei: Tian@Canada.org: McMaster University: Canada
+Srinivas, Nidhra: Srinivas@Sweden.org: Blekinge Institute of Technology: Sweden
+Cui, Xiaohui: Cui@USofA.org: Oak Ridge National Laboratory: United States
+Hinchey, Mike: Hinchey@Ireland.org: University of Limerick: Ireland
+Ben ammar, Lassaad: Ben ammar@Tunisia.org: Universite de Sfax: Tunisia
+Cokuslu, Deniz: Cokuslu@France.org: Universite Paul Sabatier (Toulouse III): France
+Brown, Joseph: Brown@Canada.org: University of Guelph: Canada
+Jagtap, Sanjeet: Jagtap@India.org: University of Kerala: India
+Hameurlain, Abdelkader: Hameurlain@France.org: Universite Paul Sabatier (Toulouse III): France
+Morvan, Franck: Morvan@France.org: Universite Paul Sabatier (Toulouse III): France
+Tomar, Pradeep: Tomar@India.org: Gautam Buddha University: India
+Ghadipasha, Khosro: Ghadipasha@Iran.org: Payame Noor University: Iran
+Kumar, Lalith: Kumar@India.org: Vellore Institute of Technology: India
+Valtchanov, Valtchan: Valtchanov@Canada.org: University of Guelph: Canada
+Sodhi, Balwinder: Sodhi@India.org: Indian Institute of Technology, Kanpur: India
+Adeleke, Kukoyi: Adeleke@Nigeria.org: Lagos State University: Nigeria
+Montanari, Ugo: Montanari@Italy.org: University of Pisa: Italy
+Seriai, Abdelhak djamel: Seriai@France.org: Universite de Montpellier II: France
+Pandey, Parul: Pandey@India.org: Bangalore University: India
+Hossain, Mahmood: Hossain@USofA.org: Fairmont State University: United States
+Zarrougui, Ridha: Zarrougui@Switzerland.org: University of Fribourg: Switzerland
+Muller, Hausi: Muller@Canada.org: University of Victoria: Canada
+Bensalem, Saddek: Bensalem@France.org: Universite Joseph Fourier (Grenoble I): France
+Cong vinh, Phan: Cong vinh@Vietnam.org: National University of Ho Chi Minh City: Vietnam
+Choi, You: Choi@Korea Republic.org: Electronics and Telecommunications Research Institute: Korea Republic
+Cassavia, Nunziato: Cassavia@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Panigati, Emanuele: Panigati@Italy.org: POLITECNICO DI MILANO: Italy
+Malik, Tanu: Malik@USofA.org: University of Chicago: United States
+Cassol, Tiago: Cassol@Brazil.org: Universidade Federal do Rio Grande do Sul: Brazil
+Malla, Noor: Malla@France.org: Universite Paris Sud (Paris XI): France
+Zhijun, Xie: Zhijun@China.org: Zhejiang University: China
+Bidoit-tollu, Nicole: Bidoit-tollu@France.org: Universite Paris Sud (Paris XI): France
+Mokhtar, Hoda: Mokhtar@Egypt.org: Cairo University: Egypt
+Hussein, Nariman: Hussein@Egypt.org: Cairo University: Egypt
+Starka, Jakub: Starka@Czech Repubilc.org: Charles University Prague: Czech Repubilc
+Martínez-bazan, Norbert: Martínez-bazan@Spain.org: Universitat Politecnica de Catalunya: Spain
+Aguila, Miguel: Aguila@Spain.org: Universidad Politecnica de Cataluna: Spain
+Khetarpaul, Sonia: Khetarpaul@India.org: Indian Institute of Technology, Delhi: India
+Sekhavat, Yoones: Sekhavat@Canada.org: Memorial University of Newfoundland: Canada
+Dublé, Etienne: Dublé@France.org: Centre National de la Recherche Scientifique: France
+Martinez, Lourdes: Martinez@France.org: Institut Polytechnique de Grenoble: France
+Nica, Anisoara: Nica@Canada.org: Sybase Inc. Canada: Canada
+Chou, Stephen: Chou@Canada.org: University of Waterloo: Canada
+Defude, Bruno: Defude@France.org: Telecom Sud Paris: France
+Delot, Thierry: Delot@France.org: INRIA: France
+Perez-rivas, Eduardo: Perez-rivas@Mexico.org: Instituto Politecnico Nacional: Mexico
+Emamidoost, Maryam alsadat: Emamidoost@USofA.org: University of Maryland at College Park: United States
+Rodríguez, Lisbeth: Rodríguez@Mexico.org: Universidad Autonoma del Estado de Mexico: Mexico
+Amorim, Danielle: Amorim@Brazil.org: Universidade de Fortaleza: Brazil
+Schreiber, Fabio: Schreiber@Italy.org: POLITECNICO DI MILANO: Italy
+Adams, Adamolekun: Adams@Ukraine.org: Ternopil State Ivan Pul'uj Technical University: Ukraine
+Speicher, Daniel: Speicher@Germany.org: Universitaet Bonn: Germany
+Takahashi, Tsubasa: Takahashi@Japan.org: NEC: Japan
+Yu, Feng: Yu@USofA.org: Southern Illinois University at Carbondale: United States
+Manukyan, Manuk: Manukyan@Armenia.org: Yerevan State University: Armenia
+Carafoli, Luca: Carafoli@Italy.org: University of Modena: Italy
+Moussa, Rim: Moussa@Tunisia.org: Université de Tunis: Tunisia
+Tantius, Richard: Tantius@Germany.org: Universitaet Bonn: Germany
+Breitman, Karin: Breitman@Brazil.org: Pontificia Universidade Catolica do Rio de Janeiro: Brazil
+Vidal, Vania: Vidal@Brazil.org: Universidade Federal do Ceara: Brazil
+Agbaje, Taofik adeyemi: Agbaje@Nigeria.org: Lawson Software, Inc.: Nigeria
+Bertino, Elisa: Bertino@USofA.org: Purdue University: United States
+Hatim, Hamid: Hatim@Morocco.org: Universite Mohammed V - Souissi: Morocco
+Lussier, Martin-pierre: Lussier@Canada.org: Communications Research Centre Canada: Canada
+Olutoye, Mayow: Olutoye@United Kingdom.org: University of Huddersfield: United Kingdom
+Rahman, Aziz: Rahman@Afghanistan.org: American University of Afghanistan: Afghanistan
+Canahuate, Guadalupe: Canahuate@USofA.org: University of Iowa: United States
+Gil de la iglesia, Didac: Gil de la iglesia@Sweden.org: Vaxjo University: Sweden
+Chardigny, Sylvain: Chardigny@France.org: Universite de Montpellier II: France
+Moudani, Walid: Moudani@Lebanon.org: Lebanese University Beirut: Lebanon
+Kebir, Selim: Kebir@France.org: Universite de Montpellier II: France
+Gu, Jason: Gu@Canada.org: Dalhousie University: Canada
+Horne, Gabrielle: Horne@Canada.org: Dalhousie University: Canada
+Ahmad, Tanvir: Ahmad@Sweden.org: Linnaeus University: Sweden
+Mansour, Nassim: Mansour@Canada.org: Polytechnic School of Montreal: Canada
+Bridges, Susan: Bridges@USofA.org: Mississippi State University: United States
+Wang, Yong: Wang@USofA.org: Mississippi State University: United States
+Hodges, Julia: Hodges@USofA.org: Mississippi State University: United States
+Nathan, Jeffson: Nathan@India.org: Indian Institute of Technology, Bombay: India
+Vakali, Athena: Vakali@Greece.org: Aristotle University of Thessaloniki: Greece
+Krátký, Michal: Krátký@Czech Repubilc.org: Technical University of Ostrava: Czech Repubilc
+Kiss, Jozsef: Kiss@Hungary.org: Budapest University of Economic Sciences and Public Administration: Hungary
+Nixon, Paddy: Nixon@Australia.org: University of Tasmania: Australia
+Martoglia, Riccardo: Martoglia@Italy.org: University of Modena: Italy
+Markovits, Meir: Markovits@Israel.org: CEVA, Inc. Israel: Israel
+Gutman, Yaron: Gutman@Israel.org: Ben-Gurion University: Israel
+Gryz, Jarek: Gryz@Canada.org: York University: Canada
+Bruns, Benjamin: Bruns@Germany.org: Forschungszentrum Julich GmbH: Germany
+Baca, Radim: Baca@Czech Repubilc.org: Technical University of Ostrava: Czech Repubilc
+Subramaniam, L venkata: Subramaniam@India.org: IBM Research - India: India
+Stolyarov, Konstantin: Stolyarov@Russian Federation.org: 2GIS: Russian Federation
+Gupta, S k: Gupta@India.org: Indian Institute of Technology, Delhi: India
+Kozak, Michal: Kozak@Czech Repubilc.org: Charles University Prague: Czech Repubilc
+Takayama, Shigenobu: Takayama@Japan.org: Mitsubishi Electric Information Systems Corporation: Japan
+Mogensen, Ole: Mogensen@Denmark.org: Self Employed: Denmark
+Erciyes, Kayhan: Erciyes@Turkey.org: Izmir University: Turkey
+Krueger, Jens: Krueger@Germany.org: Hasso-Plattner Institute: Germany
+Novais, Paulo: Novais@Portugal.org: Universidade do Minho: Portugal
+Andrade, Francisco: Andrade@Portugal.org: Universidade do Minho: Portugal
+Almeida, Ana: Almeida@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Simões, Anabela: Simões@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Marques, Viriato: Marques@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Cunha, Joao: Cunha@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Duraes, Joao: Duraes@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Cardoso, Jorge: Cardoso@Portugal.org: Universidade de Coimbra: Portugal
+Rupino da cunha, Paulo: Rupino da cunha@Portugal.org: Universidade de Coimbra: Portugal
+Boehmann, Tilo: Boehmann@Germany.org: Universitat Hamburg: Germany
+Pinto, Alexandre miguel: Pinto@Portugal.org: Universidade de Coimbra: Portugal
+Costa, Ricardo: Costa@Portugal.org: Instituto Politecnico do Porto: Portugal
+User3, New: User3@Canada.org: ConfSys.org: Canada
+Raghavan, Venkatesh: Raghavan@USofA.org: Pivotal Corporation: United States
+Jimenez-peris, Ricardo: Jimenez-peris@Spain.org: Universidad Politecnica de Madrid: Spain
+Kitagawa, Hiroyuki: Kitagawa@Japan.org: Tsukuba University: Japan
+Liu, Mengchi: Liu@Canada.org: Carleton University: Canada
+Manolopoulos, Yannis: Manolopoulos@Greece.org: Aristotle University of Thessaloniki: Greece
+Sadri, Fereidoon: Sadri@Reviewer.org: University of North Carolina at Greensboro: Reviewer
+Martin, Patrick: Martin@Canada.org: Queen's University: Canada
+Holubova, Irena: Holubova@Czech Repubilc.org: Charles University Prague: Czech Repubilc
+Montesi, Danilo: Montesi@Italy.org: University of Bologna: Italy
+Tanner, David: Tanner@Ireland.org: University of Limerick: Ireland
+Prodan, Radu: Prodan@Austria.org: Universitat Innsbruck: Austria
+Nagarajan, Vidhya: Nagarajan@Canada.org: University of Guelph: Canada
+Cercone, Nick: Cercone@Canada.org: York University: Canada
+Sousa, Albert: Sousa@Canada.org: MTS Allstream: Canada
+Anand, Manish: Anand@USofA.org: salesforce.com: United States
+Figueiredo, Lino: Figueiredo@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Niyizamwiyitira, Christine: Niyizamwiyitira@Sweden.org: Blekinge Institute of Technology: Sweden
+Lalchandani, Jayprakash: Lalchandani@India.org: International Institute of Information Technology, Bangalore: India
+Sousa, Flávio r. c.: Sousa@Brazil.org: Universidade Federal do Ceara: Brazil
+Hönigl, Jürgen: Hönigl@Austria.org: Universitat Linz: Austria
+Petrovi?, Veljko: Petrovi?@Srebia and Montenegro.org: University of Novi Sad: Srebia and Montenegro
+Miyashita, Yamato: Miyashita@Japan.org: Keio University: Japan
+Yu, Dung-feng: Yu@Taiwan.org: National Cheng Kung University: Taiwan
+Silva, Rui: Silva@Portugal.org: Instituto Politecnico de Beja: Portugal
+Hu, Chien-wei: Hu@Taiwan.org: National Cheng Kung University: Taiwan
+Ssu, Kuo-feng: Ssu@Taiwan.org: National Cheng Kung University: Taiwan
+Jiau, Hewijin: Jiau@Taiwan.org: National Cheng Kung University: Taiwan
+Puviani, Mariachiara: Puviani@Italy.org: University of Modena: Italy
+Cabri, Giacomo: Cabri@Italy.org: University of Modena: Italy
+Zambonelli, Franco: Zambonelli@Italy.org: University of Modena: Italy
+Abeywickrama, Dhaminda B.: Abeywickrama@Italy.org: University of Modena: Italy
+Hoch, Nicklas: Hoch@Germany.org: Volkswagen: Germany
+Ev, Sunitha: Ev@India.org: Cochin University of Science and Technology: India
+Firdaus, Syeda: Firdaus@Canada.org: Ryerson University: Canada
+Gröger, Christoph: Gröger@Germany.org: Universitat Stuttgart: Germany
+Ghazi, Sabri: Ghazi@Algeria.org: Universite d'Annaba: Algeria
+Alouneh, Sahel: Alouneh@Jordan.org: German Jordanian University: Jordan
+Li, Chunhui: Li@United Kingdom.org: Aston University: United Kingdom
+Ravindran, Kaliappa: Ravindran@USofA.org: City University of New York, City College: United States
+Alloui, Tarek: Alloui@Algeria.org: Universite de Constantine 2: Algeria
+Jesus, Isabel: Jesus@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Barbosa, Ramiro: Barbosa@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Alhazmi, Raid: Alhazmi@USofA.org: Towson University: United States
+Abramova, Veronika: Abramova@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Boussebough, Imane: Boussebough@Algeria.org: Universite de Constantine 2: Algeria
+Chaoui, Allaoua: Chaoui@Algeria.org: Universite de Constantine 2: Algeria
+Gomes, Elsa: Gomes@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Borges, Luís: Borges@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Nedyalkova, Stanislava: Nedyalkova@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Bouchrika, Imed: Bouchrika@Algeria.org: Universite de Constantine: Algeria
+Harrati, Nouzha: Harrati@Algeria.org: University of Souk Ahras: Algeria
+Karamti, Hanen: Karamti@Tunisia.org: Universite de Sfax: Tunisia
+Martins, Angelo: Martins@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Sousa, Tiago: Sousa@Portugal.org: Universidade do Porto: Portugal
+Faria, Joao: Faria@Portugal.org: Universidade do Porto: Portugal
+Ferreira, Hugo: Ferreira@Portugal.org: Universidade do Porto: Portugal
+Luz, Nuno: Luz@Portugal.org: Instituto Politecnico do Porto: Portugal
+Ramada, Mariana: Ramada@Brazil.org: Universidade Federal de Goias: Brazil
+Wahl, Andreas: Wahl@Germany.org: Friedrich-Alexander-Universität Erlangen-Nürnberg: Germany
+Colpo, Miriam: Colpo@Brazil.org: Universidade Federal do Rio Grande do Sul: Brazil
+Minuto espil, Mauricio: Minuto espil@Argentina.org: Universidad de Buenos Aires: Argentina
+Valêncio, Carlos: Valêncio@Brazil.org: Universidade Estadual Paulista: Brazil
+Silva, Ana: Silva@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Cabral, Sara: Cabral@Portugal.org: Instituto Politecnico do Porto: Portugal
+Moreno, Bruno: Moreno@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Pinheiro, Sílvia: Pinheiro@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Dombrovskaya, Henrietta: Dombrovskaya@USofA.org: Enova: United States
+Cervi, Cristiano: Cervi@Brazil.org: Universidade de Passo Fundo: Brazil
+Lee, Richard: Lee@USofA.org: Enova: United States
+Taddeo, Marco: Taddeo@Italy.org: University of Insubria: Italy
+Gottstein, Robert: Gottstein@Germany.org: Technische Universitat Darmstadt: Germany
+Sawin, Jason: Sawin@USofA.org: University of St. Thomas, St. Paul: United States
+Guzun, Gheorghi: Guzun@USofA.org: University of Iowa: United States
+Gutin, Semyon: Gutin@Russian Federation.org: Russian Academy of Science: Russian Federation
+Campinas, Stephane: Campinas@Ireland.org: National University of Ireland, Galway: Ireland
+Doan, Fredton: Doan@USofA.org: Washington State University, Vancouver: United States
+Trombetta, Alberto: Trombetta@Italy.org: University of Insubria: Italy
+Pierantozzi, Stefano: Pierantozzi@Italy.org: University of Bologna: Italy
+Mahmoud, Ahmed: Mahmoud@Egypt.org: Helwan University: Egypt
+Silva, Joao Carlos: Silva@Brazil.org: Universidade Federal de Goias: Brazil
+Leitao-junior, Plinio: Leitao-junior@Brazil.org: Universidade Federal de Goias: Brazil
+Schwarz, Holger: Schwarz@Germany.org: Universitat Stuttgart: Germany
+Winsemann, Thorsten: Winsemann@Germany.org: Otto-von-Guericke Universitat Magdeburg: Germany
+Zielinski, Bartosz: Zielinski@Poland.org: University of Lodz: Poland
+Sobieski, Scibor: Sobieski@Poland.org: University of Lodz: Poland
+Maslanka, Pawel: Maslanka@Poland.org: University of Lodz: Poland
+Loyer, Yann: Loyer@France.org: Universite de Versailles Saint-Quentin-en-Yvelines: France
+Zeitouni, Karine: Zeitouni@France.org: Universite de Versailles Saint-Quentin-en-Yvelines: France
+Medeiros, Camila: Medeiros@Brazil.org: Universidade Estadual Paulista: Brazil
+Guimarães, Diogo: Guimarães@Brazil.org: Universidade Estadual Paulista: Brazil
+Cansian, Adriano: Cansian@Brazil.org: Universidade Estadual Paulista: Brazil
+Nolen, Michael: Nolen@USofA.org: University of Memphis: United States
+Cruz, Christophe: Cruz@France.org: Le2i: France
+Nicolle, Christophe: Nicolle@France.org: Le2i: France
+Pinto, Alex Sandro: Pinto@Brazil.org: Universidade Estadual Paulista: Brazil
+Corrêa, Pedro Luiz: Corrêa@Brazil.org: Universidade de Sao Paulo: Brazil
+Silva, Edemberg: Silva@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Souza, Guilherme: Souza@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Salgado, Ana Carolina: Salgado@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Barbosa, Raul: Barbosa@Portugal.org: Universidade de Coimbra: Portugal
+Ferreira, Nickerson: Ferreira@Portugal.org: Universidade de Coimbra: Portugal
+Chou, Li-der: Chou@Taiwan.org: National Central University: Taiwan
+Daniel, Guilherme: Daniel@Brazil.org: Universidade Estadual Paulista: Brazil
+Times, Valeria: Times@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Batko, Michal: Batko@Czech Repubilc.org: Masaryk University: Czech Repubilc
+Daute, Oliver: Daute@Germany.org: SAP: Germany
+Budikova, Petra: Budikova@Czech Repubilc.org: Masaryk University: Czech Repubilc
+Leclercq, Eric: Leclercq@France.org: Universite de Bourgogne: France
+Troya, Andres: Troya@France.org: Universite de Bourgogne: France
+Mehdi, Muntazir: Mehdi@Ireland.org: National University of Ireland, Galway: Ireland
+Köppen, Veit: Köppen@Germany.org: Otto-von-Guericke Universitat Magdeburg: Germany
+Jánosi-rancz, Katalin Tünde: Jánosi-rancz@Romania.org: Sapientia Hungarian University of Transylvania: Romania
+Colombini, Angelo: Colombini@Brazil.org: Universidade Federal de Sao Carlos: Brazil
+Vu, Trinh: Vu@Vietnam.org: Hanoi University of Technology: Vietnam
+Sahay, Ratnesh: Sahay@Ireland.org: National University of Ireland, Galway: Ireland
+Asfari, Ounas: Asfari@France.org: Université de Lyon: France
+Ciolac, Camelia: Ciolac@Romania.org: University of Bucharest: Romania
+Tahir, Hassane: Tahir@France.org: Universite Pierre et Marie Curie (Paris VI): France
+Lajos, árpád: Lajos@Romania.org: Request Pending: Romania
+Lin, King-ip: Lin@USofA.org: University of Memphis: United States
+Fidalgo, Robson: Fidalgo@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Zaniolo, Carlo: Zaniolo@USofA.org: University of California, Los Angeles: United States
+Alves, Edson: Alves@Brazil.org: Universidade Federal de Pernambuco: Brazil
+España, Sergio: España@Spain.org: Universidad Politecnica de Valencia: Spain
+Castro, Jaelson: Castro@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Folino, Francesco: Folino@Italy.org: National Research Council: Italy
+Mattoso, Marta: Mattoso@Brazil.org: Federal University of Rio de Janeiro: Brazil
+Ali Guechi, Farida: Ali Guechi@Algeria.org: Universite de Batna: Algeria
+Zuzarte, Calisto: Zuzarte@Canada.org: IBM: Canada
+Abal, Iago: Abal@Portugal.org: Universidade do Minho: Portugal
+Soisalon-soininen, Eljas: Soisalon-soininen@Finland.org: Aalto University: Finland
+Neves, Pedro: Neves@Portugal.org: Instituto Superior de Engenharia de Coimbra: Portugal
+Marinheiro, António: Marinheiro@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Paiva, Nuno: Paiva@Portugal.org: Instituto Superior de Engenharia de Coimbra: Portugal
+Camara, Evandro: Camara@Brazil.org: Universidade Federal do Parana: Brazil
+Lange, Adriano: Lange@Brazil.org: Universidade Federal do Parana: Brazil
+Sunye, Marcos: Sunye@Brazil.org: Universidade Federal do Parana: Brazil
+Silva, Fabiano: Silva@Brazil.org: Universidade Federal do Parana: Brazil
+Cunha De Almeida, Eduardo: Cunha De Almeida@Brazil.org: Universidade Federal do Parana: Brazil
+Pugliese, Andrea: Pugliese@Italy.org: University of Calabria: Italy
+Sousa Pinto, Jorge: Sousa Pinto@Portugal.org: Universidade do Minho: Portugal
+Jorge, Alípio: Jorge@Portugal.org: Universidade do Porto: Portugal
+Soltani, Sima: Soltani@Canada.org: Queen's University: Canada
+Zhang, Mingyi: Zhang@Canada.org: Queen's University: Canada
+Trubitsyna, Irina: Trubitsyna@Italy.org: University of Calabria: Italy
+Zela Moraya, Wester: Zela Moraya@Spain.org: Universidad Politecnica de Madrid: Spain
+Guisado, Joan: Guisado@Spain.org: Universidad Politecnica de Cataluna: Spain
+Prat, Arnau: Prat@Spain.org: Universidad Politecnica de Cataluna: Spain
+Martin, Xavier: Martin@Spain.org: Universidad Politecnica de Cataluna: Spain
+Li, Sha: Li@China.org: South China Sea Institute of Oceanology: China
+Pambianco, Stefano: Pambianco@Italy.org: Bank of Italy: Italy
+Pastor, Oscar: Pastor@Spain.org: Universidad Politecnica de Valencia: Spain
+Boukorca, Ahcene: Boukorca@France.org: Ecole Nationale Superieur de Mecanique et d'Aeronautique: France
+Boukhobza, Jalil: Boukhobza@France.org: Universite de Bretagne Occidentale: France
+Belhadj, Chedlia: Belhadj@Tunisia.org: Universite de Tunis El Manar: Tunisia
+Karakehayov, Zdravko: Karakehayov@Bulgaria.org: New Bulgarian University: Bulgaria
+Li, Sun: Li@China.org: Tongji University: China
+Azevedo, Ana: Azevedo@Portugal.org: Instituto Politecnico do Porto: Portugal
+Portela, Filipe: Portela@Portugal.org: Universidade do Minho: Portugal
+Burdescu, Dumitru: Burdescu@Romania.org: University of Craiova: Romania
+Kontogiannis, Sotirios: Kontogiannis@Greece.org: University of Ioannina: Greece
+Ribaudo, Marina: Ribaudo@Italy.org: University of Genoa: Italy
+Pereira, Francisco: Pereira@Singapore.org: Singapore-MIT Alliance for Research and Technology: Singapore
+Rangel Henriques, Pedro: Rangel Henriques@Portugal.org: Universidade do Minho: Portugal
+Mikulecky, Peter: Mikulecky@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Cruz, Ricardo: Cruz@Portugal.org: Universidade do Porto: Portugal
+Pietruszkiewicz, Wies?aw: Pietruszkiewicz@Poland.org: West Pomeranian University of Technology: Poland
+Endres, Markus: Endres@Germany.org: Universitat Augsburg: Germany
+Yang, Hanqing: Yang@USofA.org: University of Oklahoma: United States
+Roocks, Patrick: Roocks@Germany.org: Universitat Augsburg: Germany
+Kießling, Werner: Kießling@Germany.org: Universitat Augsburg: Germany
+Ash, Stephen: Ash@USofA.org: University of Memphis: United States
+Gonçalves, Eduardo: Gonçalves@Brazil.org: Universidade Federal Fluminense: Brazil
+Freitas, Alberto: Freitas@Portugal.org: Universidade do Porto: Portugal
+Nunes, Sérgio: Nunes@Portugal.org: Universidade do Porto: Portugal
+Souza, Vinicius Mourão: Souza@Brazil.org: Universidade de Sao Paulo: Brazil
+Oliveira, Paulo: Oliveira@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Drury, Brett: Drury@Ireland.org: National University of Ireland, Galway: Ireland
+Santos, Maribel Yasmina: Santos@Portugal.org: Universidade do Minho: Portugal
+Luo, Min: Luo@Japan.org: Nippon Telegraph and Telephone Corperation: Japan
+Yokota, Haruo: Yokota@Japan.org: Tokyo Institute of Technology: Japan
+Alves, Ana: Alves@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Rodrigues, Filipe: Rodrigues@Portugal.org: Universidade de Coimbra: Portugal
+Payne, Allan: Payne@United Kingdom.org: Self Employed: United Kingdom
+Mccamish, Ben: Mccamish@USofA.org: Washington State University, Vancouver: United States
+Slechta, Ryan: Slechta@USofA.org: University of St. Thomas, St. Paul: United States
+Yan, Wang: Yan@Japan.org: Tsukuba University: Japan
+O'Neil, Elizabeth: O'Neil@USofA.org: University of Massachusetts at Boston: United States
+O'Neil, Patrick: O'Neil@USofA.org: University of Massachusetts at Boston: United States
+Liu, Xiufeng: Liu@Canada.org: University of Waterloo: Canada
+Gomes, Paulo: Gomes@Portugal.org: Universidade de Coimbra: Portugal
+Garner, Philip: Garner@United Kingdom.org: University of Lancaster: United Kingdom
+Sinoara, Roberta: Sinoara@Brazil.org: Universidade de Sao Paulo: Brazil
+Valejo, Alan: Valejo@Brazil.org: Universidade de Sao Paulo: Brazil
+Kubát, David: Kubát@Czech Repubilc.org: Technical University of Liberec: Czech Repubilc
+Rizzi, Stefano: Rizzi@Italy.org: University of Bologna: Italy
+Sundermann, Camila: Sundermann@Brazil.org: Universidade de Sao Paulo: Brazil
+Francia, Matteo: Francia@Italy.org: University of Bologna: Italy
+Domingues, Marcos: Domingues@Brazil.org: Universidade Estadual de Maringa: Brazil
+Lu, Yun: Lu@USofA.org: Florida International University: United States
+Marcacini, Ricardo: Marcacini@Brazil.org: Universidade Federal de Mato Grosso do Sul: Brazil
+Thomsen, Christian: Thomsen@Denmark.org: Aalborg University: Denmark
+Pedersen, Torben: Pedersen@Denmark.org: Aalborg University: Denmark
+Aguiar, Ana: Aguiar@Portugal.org: Universidade do Porto: Portugal
+Pabon, Maria: Pabon@Colombia.org: Universidad del Valle del Cauca: Colombia
+Machado, José: Machado@Portugal.org: Universidade do Minho: Portugal
+Tomtsis, Dimitrios: Tomtsis@Greece.org: Technological Educational Institute of Western Macedonia: Greece
+Popelínský, Luboš: Popelínský@Czech Repubilc.org: Masaryk University: Czech Repubilc
+Gama, João: Gama@Portugal.org: Universidade do Porto: Portugal
+Quarati, Alfonso: Quarati@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Rezende, Solange: Rezende@Brazil.org: Universidade de Sao Paulo: Brazil
+Turley, Egor: Turley@Russian Federation.org: Moscow State University: Russian Federation
+Almeida, Dayse: Almeida@Brazil.org: Universidade de Sao Paulo: Brazil
+Caballero, Ismael: Caballero@Spain.org: Universidad de Castilla La Mancha: Spain
+Kanhabua, Nattiya: Kanhabua@Germany.org: L3S Research Center: Germany
+Jatowt, Adam: Jatowt@Japan.org: Kyoto University: Japan
+Leal, José Paulo: Leal@Portugal.org: Universidade do Porto: Portugal
+Lingras, Pawan: Lingras@Canada.org: Saint Mary's University: Canada
+Cappiello, Cinzia: Cappiello@Italy.org: POLITECNICO DI MILANO: Italy
+Queirós, Ricardo: Queirós@Portugal.org: Instituto Politecnico do Porto: Portugal
+Strötgen, Jannik: Strötgen@Germany.org: Universitat des Saarlandes: Germany
+Altingovde, Ismail: Altingovde@Turkey.org: Middle East Technical University: Turkey
+Ribeiro, Cristina: Ribeiro@Portugal.org: Universidade do Porto: Portugal
+Oliveira, Nuno: Oliveira@Portugal.org: Universidade do Minho: Portugal
+Torgo, Luis: Torgo@Portugal.org: Universidade do Porto: Portugal
+Escudeiro, Nuno: Escudeiro@Portugal.org: Instituto Politecnico do Porto: Portugal
+Blanco, Roi: Blanco@Spain.org: Yahoo!: Spain
+Semeraro, Giovanni: Semeraro@Italy.org: University of Bari: Italy
+Kanaoka, Kei: Kanaoka@Japan.org: Keio University: Japan
+Rakhmawati, Nur: Rakhmawati@Ireland.org: National University of Ireland, Galway: Ireland
+Lalithsena, Sarasi: Lalithsena@USofA.org: Wright State University: United States
+Moniz, Nuno: Moniz@Portugal.org: Universidade do Porto: Portugal
+Lopes, Alneu: Lopes@Brazil.org: Universidade de Sao Paulo: Brazil
+Campos, Ricardo: Campos@Portugal.org: Instituto Politecnico de Tomar: Portugal
+Vorobkalov, Pavel: Vorobkalov@Russian Federation.org: Volgograd State Technical University: Russian Federation
+Kriz, Pavel: Kriz@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Ferri, Cèsar: Ferri@Spain.org: Universidad Politecnica de Valencia: Spain
+Mladenic, Dunja: Mladenic@Slovenia.org: Jozef Stefan Institute: Slovenia
+Helfert, Markus: Helfert@Ireland.org: Dublin City University: Ireland
+Tovarnak, Daniel: Tovarnak@Czech Repubilc.org: Masaryk University: Czech Repubilc
+Machacek, Miloslav: Machacek@Czech Repubilc.org: University of Pardubice: Czech Repubilc
+Jäkel, Tobias: Jäkel@Germany.org: Technische Universitat Dresden: Germany
+Kysela, Jiri: Kysela@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Toyama, Motomichi: Toyama@Japan.org: Keio University: Japan
+Labbe, Cyril: Labbe@France.org: Universite Joseph Fourier (Grenoble I): France
+Serrano, Daniel: Serrano@Portugal.org: Universidade de Lisboa: Portugal
+Antunes, Cláudia: Antunes@Portugal.org: Universidade de Lisboa: Portugal
+Kurunji, Swathi: Kurunji@USofA.org: University of Massachusetts at Lowell: United States
+Azevedo, Paulo: Azevedo@Portugal.org: Universidade do Minho: Portugal
+Otsuka, Eriko: Otsuka@USofA.org: Washington State University: United States
+Wallace, Scott: Wallace@USofA.org: Washington State University: United States
+Saleem, Muhammad: Saleem@Germany.org: Universitat Leipzig: Germany
+Alrashoud, Mubarak: Alrashoud@Canada.org: Ryerson University: Canada
+Bairi, Ramakrishna: Bairi@India.org: Indian Institute of Technology, Bombay: India
+Vieira, João: Vieira@Portugal.org: Universidade Tecnica de Lisboa: Portugal
+Goyal, Rohit: Goyal@Germany.org: Technische Universitat Darmstadt: Germany
+Pitner, Tomáš: Pitner@Czech Repubilc.org: Masaryk University: Czech Repubilc
+Faleiros, Thiago: Faleiros@Brazil.org: Universidade de Sao Paulo: Brazil
+Bouchou, Béatrice: Bouchou@France.org: Universite Francois Rabelais de Tours: France
+Cortez, Paulo: Cortez@Portugal.org: Universidade do Minho: Portugal
+Da Silva, João: Da Silva@Portugal.org: Instituto de Engenharia de Sistemas e Computadores: Portugal
+Villarroya, Sebastián: Villarroya@Spain.org: Universidad de Santiago de Compostela: Spain
+Lopes, João: Lopes@Portugal.org: Universidade do Porto: Portugal
+Martínez Casas, David: Martínez Casas@Spain.org: Universidad de Santiago de Compostela: Spain
+Vilar, Moisés: Vilar@Spain.org: Universidad de Santiago de Compostela: Spain
+Taboada, José: Taboada@Spain.org: Universidad de Santiago de Compostela: Spain
+Alasiry, Areej: Alasiry@United Kingdom.org: Birkbeck College, University of London: United Kingdom
+Ibl, Martin: Ibl@Czech Repubilc.org: University of Pardubice: Czech Repubilc
+Galhardas, Helena: Galhardas@Portugal.org: Universidade de Lisboa: Portugal
+Liao, I-en: Liao@Taiwan.org: National Chung Hsing University, Taichung: Taiwan
+Barreto, António: Barreto@Portugal.org: Universidade de Lisboa: Portugal
+Malerba, Donato: Malerba@Italy.org: University of Bari: Italy
+Maria, Gaspare: Maria@Italy.org: GFM Integration: Italy
+Review, Blind: Review@USofA.org: ConfSys.org: United States
+Pereira, António: Pereira@Portugal.org: Universidade de Lisboa: Portugal
+Sobeslav, Vladimir: Sobeslav@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Deufemia, Vincenzo: Deufemia@Italy.org: University of Salerno: Italy
+Horalek, Josef: Horalek@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Pavlik, Jakub: Pavlik@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Komarek, Ales: Komarek@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Polese, Giuseppe: Polese@Italy.org: University of Salerno: Italy
+De Lira, Vinicius: De Lira@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Krejcar, Ondrej: Krejcar@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Valverde-rebaza, Jorge: Valverde-rebaza@Brazil.org: Universidade de Sao Paulo: Brazil
+Marešová, Petra: Marešová@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Balik, Ladislav: Balik@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Khan, Yasar: Khan@Ireland.org: National University of Ireland, Galway: Ireland
+Cimler, Richard: Cimler@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Matyska, Jan: Matyska@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Costa, Rogério Luís: Costa@Brazil.org: Pontificia Universidade Catolica do Rio de Janeiro: Brazil
+Niang, Cheikh: Niang@France.org: Universite de Cergy-Pontoise: France
+Marik, Ondrej: Marik@Czech Repubilc.org: University of Pardubice: Czech Repubilc
+Kuca, Kamil: Kuca@Czech Repubilc.org: University of Hradec Králové: Czech Repubilc
+Dhamane, Rohit: Dhamane@Spain.org: Universidad Politecnica de Madrid: Spain
+Caruccio, Loredana: Caruccio@Italy.org: University of Salerno: Italy
+Gaber, Mohamed: Gaber@United Kingdom.org: The Robert Gordon University: United Kingdom
+Vale, Samyr: Vale@Brazil.org: Universidade Federal do Maranhao: Brazil
+Sebillo, Monica: Sebillo@Italy.org: University of Salerno: Italy
+Lossio Ventura, Juan Antonio: Lossio Ventura@France.org: Universite de Montpellier II: France
+Roche, Mathieu: Roche@France.org: Centre National d'Etudes Agronomiques des Regions Chaudes: France
+Michelsen, Timo: Michelsen@Germany.org: Carl von Ossietzky Universitat Oldenburg: Germany
+Gong, Weiwei: Gong@USofA.org: University of Massachusetts at Boston: United States
+Asd, Asd: Asd@Afghanistan.org: American University of Afghanistan: Afghanistan
+Colucci, Simona: Colucci@Italy.org: Polytechnic Institute of Bari: Italy
+Jin, Hai: Jin@China.org: Huazhong University of Science and Technology: China
+Wang, Fengwei: Wang@China.org: Huazhong University of Science and Technology: China
+Djellali, Choukri: Djellali@Canada.org: University of Quebec at Montreal: Canada
+Alessandra, Torsello: Alessandra@Italy.org: University of Milan - Bicocca: Italy
+Souza, Damires: Souza@Brazil.org: Instituto Federal de Educação, Ciência e Tecnologia da Paraíba.: Brazil
+Martinez Uso, Adolfo: Martinez Uso@Spain.org: Universidad Politecnica de Valencia: Spain
+Park, Jonghee: Park@Korea Republic.org: Samsung: Korea Republic
+Cozza, Vittoria: Cozza@Italy.org: University of Pisa: Italy
+Barata, Melyssa: Barata@Portugal.org: Instituto Superior de Engenharia de Coimbra: Portugal
+Kawagoe, Kyoji: Kawagoe@Japan.org: Ritsumeikan University: Japan
+Oliveira, Marcia: Oliveira@Portugal.org: Universidade do Porto: Portugal
+Quinn, Kevin: Quinn@Canada.org: University of Alberta: Canada
+Meira, Jorge: Meira@Luxembourg.org: University Centre of Luxembourg: Luxembourg
+Costa, Teresa: Costa@Portugal.org: Universidade do Porto: Portugal
+Tomisin, Bisi-ogunleye: Tomisin@Nigeria.org: Benson Idahosa University: Nigeria
+Almeida, Rafael: Almeida@Portugal.org: Instituto Superior de Engenharia de Coimbra: Portugal
+Sampaio, Diogo: Sampaio@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Guia, José: Guia@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Jesus, Eduardo: Jesus@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Bessa, Norberto: Bessa@Portugal.org: Universidade do Porto: Portugal
+Oliveira, Soraia: Oliveira@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Aouatef, Chaib: Aouatef@Algeria.org: Universite de Constantine 2: Algeria
+Rosado, Tiago: Rosado@Portugal.org: Instituto Superior de Engenharia de Coimbra: Portugal
+Encarnação, Rui: Encarnação@Portugal.org: Universidade de Coimbra: Portugal
+Nokovic, Bojan: Nokovic@Canada.org: McMaster University: Canada
+Martins, Nuno: Martins@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Denault, Johanne: Denault@Canada.org: National Reserach Council: Canada
+Oliveira, Catarina: Oliveira@Portugal.org: Universidade do Porto: Portugal
+Santos, Joni: Santos@Portugal.org: Universidade de Coimbra: Portugal
+Vijaya, Aparna: Vijaya@India.org: Vellore Institute of Technology: India
+Antunes, Francisco: Antunes@Portugal.org: Universidade de Coimbra: Portugal
+Pirrone, Roberto: Pirrone@Italy.org: University of Palermo: Italy
+Roy, Jonathan: Roy@Canada.org: École de technologie supérieure - Université du Québec: Canada
+Ramachandran, Shankar: Ramachandran@India.org: Bharathiar University: India
+Insaurralde, Carlos: Insaurralde@United Kingdom.org: Heriot-Watt University: United Kingdom
+Sekerinski, Emil: Sekerinski@Canada.org: McMaster University: Canada
+Seabra Lopes, Luís: Seabra Lopes@Portugal.org: Universidade de Aveiro: Portugal
+Mackinnon, Richard: Mackinnon@Canada.org: University of Manitoba: Canada
+Komárková, Jitka: Komárková@Czech Repubilc.org: University of Pardubice: Czech Repubilc
+Fontes, Dalila: Fontes@Portugal.org: Universidade do Porto: Portugal
+Navrátil, Jaromír: Navrátil@Czech Repubilc.org: Masaryk University: Czech Repubilc
+Ukoh, Orji Owu: Ukoh@Turkey.org: ISTANBUL AYDIN UNIVERSITY: Turkey
+Srtrtrt, Trtrtrt: Srtrtrt@Andorra.org: University of Andorra: Andorra
+Sethia, Neetu: Sethia@India.org: Hindustan University: India
+Bergami, Giacomo: Bergami@Italy.org: University of Bologna: Italy
+Chen, Rui: Chen@USofA.org: Samsung: United States
+Appusamy Venkataraman, Senthil Kumar: Appusamy Venkataraman@India.org: Bharathiar University: India
+Lu, Wei: Lu@Canada.org: University of British Columbia: Canada
+Wang, Shuang: Wang@USofA.org: University of California, San Diego: United States
+Acs, Gergely: Acs@France.org: INRIA: France
+Mohammed, Noman: Mohammed@Canada.org: University of Manitoba: Canada
+Samir, Mohamed: Samir@Egypt.org: Arab Academy for Science & Technology: Egypt
+Pera, Maria: Pera@USofA.org: Boise State University: United States
+Sureka, Ashish: Sureka@India.org: Indraprastha Institute of Information Technology: India
+Sachdev, Astha: Sachdev@India.org: Indraprastha Institute of Information Technology: India
+Gupta, Kunal: Gupta@India.org: Indraprastha Institute of Information Technology: India
+Joishi, Jeevan: Joishi@India.org: Indraprastha Institute of Information Technology: India
+Yamato, Yoji: Yamato@Japan.org: Nippon Telegraph and Telephone Corperation: Japan
+Hettab, Abdelkamel: Hettab@Algeria.org: Université Mentouri 2: Algeria
+Huang, Yin-fu: Huang@Taiwan.org: National Yunlin University of Science and Technology: Taiwan
+Lu, Zhigang: Lu@Australia.org: University of Adelaide: Australia
+Billel, Arres: Billel@France.org: Universite Lyon 2: France
+Travers, Nicolas: Travers@France.org: Conservatoire National des Arts et Métiers: France
+Du Mouza, Cedric: Du Mouza@France.org: Conservatoire National des Arts et Métiers: France
+Hmedeh, Zeinab: Hmedeh@France.org: Universite Paris Nanterre (Paris X): France
+Bossard, Antoine: Bossard@Japan.org: Kanagawa University: Japan
+Goyal, Vikram: Goyal@India.org: Indraprastha Institute of Information Technology: India
+Mahmood, Khalid: Mahmood@Sweden.org: Uppsala University: Sweden
+Hamdi, Sana: Hamdi@Tunisia.org: Universite de 7 Novembre a Carthage: Tunisia
+Djaaboub, Salim: Djaaboub@Algeria.org: Universite de Constantine 2: Algeria
+Kantere, Verena: Kantere@Switzerland.org: University of Geneva: Switzerland
+Yang, Cheng-zen: Yang@Taiwan.org: Yuan Ze University: Taiwan
+Lin, Jerry Chun-wei: Lin@China.org: Harbin Institute of Technology: China
+Wang, Qing: Wang@Australia.org: Australian National University: Australia
+Wen, Xi: Wen@China.org: Nanchang University: China
+Wen, Xi: Wen@China.org: Nanchang University: China
+Jou, Chichang: Jou@Taiwan.org: Tamkang University: Taiwan
+Lefevbre, Sheila: Lefevbre@.org::
+Schuldt, Heiko: Schuldt@Switzerland.org: University of Basel: Switzerland
+Brinkmann, Filip-Martin: Brinkmann@Switzerland.org: University of Basel: Switzerland
+Borromeo, Ria Mae: Borromeo@Japan.org: Keio University: Japan
+Ye, Hao: Ye@China.org: Zhejiang University: China
+Dawar, Siddharth: Dawar@India.org: Indraprastha Institute of Information Technology: India
+Bertini, Flavio: Bertini@Italy.org: University of Bologna: Italy
+Corizzo, Roberto: Corizzo@Italy.org: University of Bari: Italy
+Ianni, Michele: Ianni@Italy.org: University of Calabria: Italy
+Oliverio, Marco: Oliverio@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Zhu, Minpeng: Zhu@Sweden.org: Uppsala University: Sweden
+Risch, Tore: Risch@Sweden.org: Uppsala University: Sweden
+Polák, Marek: Polák@Czech Repubilc.org: Charles University Prague: Czech Repubilc
+Zhu, Minpeng: Zhu@Sweden.org: Uppsala University: Sweden
+Ray, Indrakshi: Ray@USofA.org: Colorado State University: United States
+Anacleto, Ricardo: Anacleto@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Meireles, Antonio: Meireles@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Mohammad, Siba: Mohammad@Germany.org: Otto-von-Guericke Universitat Magdeburg: Germany
+Zhao, Pengfei: Zhao@Germany.org: Otto-von-Guericke Universitat Magdeburg: Germany
+Diao, Ziqiang: Diao@Germany.org: Otto-von-Guericke Universitat Magdeburg: Germany
+Schallehn, Eike: Schallehn@Germany.org: Otto-von-Guericke Universitat Magdeburg: Germany
+Saake, Gunter: Saake@Germany.org: Otto-von-Guericke Universitat Magdeburg: Germany
+Chiang, Ding-jung: Chiang@Taiwan.org: Taipei Chengshih University of Science and Technology: Taiwan
+Iqbal, Aftab: Iqbal@Ireland.org: National University of Ireland, Galway: Ireland
+Pasa, Leandro: Pasa@Brazil.org: Federal University of Technology: Brazil
+Martins, Pedro: Martins@Portugal.org: Universidade de Coimbra: Portugal
+Tsang, Ing Ren: Tsang@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Shioi, Takamitsu: Shioi@Japan.org: Doshisha University: Japan
+Zhong, Rui: Zhong@Japan.org: Tsukuba University: Japan
+Sirisutthidecha, Suthee: Sirisutthidecha@Thailand.org: Rangsit University: Thailand
+Hatano, Kenji: Hatano@Japan.org: Doshisha University: Japan
+Kito, Naoki: Kito@Japan.org: Ritsumeikan University: Japan
+Kato, Chihiro: Kato@Japan.org: The University of Tokyo: Japan
+Kiya, Masato: Kiya@Japan.org: Keio University: Japan
+Koshijima, Ryosuke: Koshijima@Japan.org: Keio University: Japan
+Goto, Kento: Goto@Japan.org: Keio University: Japan
+Ando, Hiromu: Ando@Japan.org: Keio University: Japan
+Ikuta, Shiori: Ikuta@Japan.org: Keio University: Japan
+Haruno, Kengo: Haruno@Japan.org: Keio University: Japan
+Hoshino, Yusuke: Hoshino@Japan.org: Keio University: Japan
+Deguchi, Moeko: Deguchi@Japan.org: Keio University: Japan
+Hayamizu, Yuto: Hayamizu@Japan.org: The University of Tokyo: Japan
+Kitsuregawa, Masaru: Kitsuregawa@Japan.org: The University of Tokyo: Japan
+Wolf, Arnaud: Wolf@Japan.org: Keio University: Japan
+Matsumoto, Yohei: Matsumoto@Japan.org: Keio University: Japan
+Goda, Kazuo: Goda@Japan.org: The University of Tokyo: Japan
+Yu, Siena: Yu@Japan.org: Keio University: Japan
+San Miguel, Jose Lorenzo: San Miguel@Japan.org: Keio University: Japan
+Aoki, Yosuke: Aoki@Japan.org: Keio University: Japan
+Takada, Shingo: Takada@Japan.org: Keio University: Japan
+Sakusa, Tomoya: Sakusa@Japan.org: Keio University: Japan
+Salgado, Pedro: Salgado@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Fernandes, Sergio: Fernandes@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Huang, Chen-ting: Huang@Taiwan.org: National Yunlin University of Science and Technology: Taiwan
+Hsieh, Min-chang: Hsieh@Taiwan.org: National Yunlin University of Science and Technology: Taiwan
+Amer-yahia, Sihem: Amer-yahia@France.org: Centre National de la Recherche Scientifique: France
+Oku, Kenta: Oku@Japan.org: Ryukoku University: Japan
+Thalia, Asma: Thalia@India.org: Birla Institute of Technology and Science: India
+Bener, Ayse: Bener@Canada.org: Ryerson University: Canada
+Popowich, Fred: Popowich@Canada.org: Simon Fraser University: Canada
+Guerrouj, Latifa: Guerrouj@Canada.org: École de technologie supérieure - Université du Québec: Canada
+Ding, Steven: Ding@Canada.org: McGill University: Canada
+Iqbal, Farkhund: Iqbal@United Arab Emirates.org: Zayed University: United Arab Emirates
+Kawamoto, Junpei: Kawamoto@Japan.org: Kyushu University: Japan
+Saglam, Askin: Saglam@Turkey.org: Izmir University: Turkey
+Ulgen, Cagatay: Ulgen@USofA.org: Idea Integration,a subsidiary of MPS: United States
+Mahjabin, Shakila: Mahjabin@Bangladesh.org: Bangladesh Army International University of Science and Technology: Bangladesh
+Chambi, Samy: Chambi@Canada.org: University of Quebec at Montreal: Canada
+Dilworth, John: Dilworth@USofA.org: Harvard University: United States
+Somboonviwat, Kulwadee: Somboonviwat@Thailand.org: King Mongkut's Institute of Technology Thonburi: Thailand
+Ayyaz, Sundus: Ayyaz@Pakistan.org: National University of Science and Technology: Pakistan
+Baker, Christopher: Baker@Canada.org: University of New Brunswick, Saint John: Canada
+Tsuchida, Takayuki: Tsuchida@Japan.org: Hitachi: Japan
+Ahn, Hyunsup: Ahn@Germany.org: Technische Universitat Carolo-Wilhelmina Braunschweig: Germany
+Talia, Domenico: Talia@Italy.org: University of Calabria: Italy
+Wieczorkowska, Alicja: Wieczorkowska@Poland.org: Polish-Japanese Institute of Information Technology in Warsaw: Poland
+Cassavia, Nunziato: Cassavia@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Mazzeo, Giuseppe: Mazzeo@USofA.org: Facebook: United States
+Pulice, Chiara: Pulice@Italy.org: University of Calabria: Italy
+Estevez, Yannier: Estevez@Cuba.org: National Center for Human and Plant Health: Cuba
+Nascimento, Samara: Nascimento@Brazil.org: Universidade Federal do Ceara: Brazil
+Al Manir, Mohammad Sadnan: Al Manir@Canada.org: University of New Brunswick, Saint John: Canada
+Maabout, Sofian: Maabout@France.org: Université de Bordeaux: France
+Lu, Wei: Lu@Japan.org: National Institute of Informatics: Japan
+Singhal, Rekha: Singhal@India.org: Tata Consultancy Services: India
+Kamnang Wanko, Patrick: Kamnang Wanko@France.org: Université de Bordeaux: France
+Barrelet, Carl: Barrelet@Canada.org: Ryerson University: Canada
+Khnaisser, Christina: Khnaisser@Canada.org: University of Sherbrooke: Canada
+Plaza, Mauricio: Plaza@Colombia.org: Universidad Militar Nueva Granada: Colombia
+Alkhouli, Abdulhafiz: Alkhouli@France.org: Universite de Cergy-Pontoise: France
+El Alami, Alae: El Alami@Morocco.org: Universite Hassan Ier - Settat: Morocco
+Bao Thien, Hoang: Bao Thien@France.org: Institut National de Recherche en Informatique: France
+Singh, Ashish: Singh@India.org: M. M. M. Engineering College: India
+Belyaev, Kirill: Belyaev@USofA.org: Colorado State University: United States
+Hanusse, Nicolas: Hanusse@France.org: Centre National de la Recherche Scientifique: France
+Robillard, David: Robillard@Canada.org: Carleton University: Canada
+Alorwornu, Dickson: Alorwornu@USofA.org: New York Institute of Technology: United States
+Helmer, Sven: Helmer@Italy.org: Free University of Bozen: Italy
+Helmer, Sven: Helmer@Italy.org: Free University of Bozen: Italy
+Salam, Saifur: Salam@Italy.org: Free University of Bozen: Italy
+Cardano, Filippo: Cardano@Italy.org: University of Bolzano: Italy
+Vodislav, Dan: Vodislav@France.org: Universite de Cergy-Pontoise: France
+Kuzulugil, Sebnem: Kuzulugil@Canada.org: Ryerson University: Canada
+Prakash, Lakshmi: Prakash@Oman.org: Sohar University: Oman
+Sharma, Himanshu: Sharma@Oman.org: Nizwa College of Technology: Oman
+Zaman, Asif: Zaman@Japan.org: Hiroshima University: Japan
+Woznica, Adam: Woznica@Switzerland.org: Expedia Inc.: Switzerland
+Lorena, Ana: Lorena@Brazil.org: Universidade Federal de Sao Paulo: Brazil
+Hadgu, Asmelash Teka: Hadgu@Germany.org: L3S Research Center: Germany
+Malheiro, Benedita: Malheiro@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Nogueira, Bruno: Nogueira@Brazil.org: Universidade Federal de Mato Grosso do Sul: Brazil
+Orellana-rodriguez, Claudia: Orellana-rodriguez@Ireland.org: University College Dublin: Ireland
+Rocha, Conceição: Rocha@Portugal.org: Instituto de Engenharia de Sistemas e Computadores: Portugal
+Amancio, Diego: Amancio@Brazil.org: Universidade de Sao Paulo: Brazil
+Matsubara, Edson: Matsubara@Brazil.org: Federal University of Mato Grosso do Sul: Brazil
+Meriaudeau, Fabrice: Meriaudeau@France.org: Universite de Bourgogne: France
+Barros, Flavia: Barros@Brazil.org: Universidade Federal de Pernambuco: Brazil
+Wu, Jiewen: Wu@Ireland.org: IBM Research - Ireland: Ireland
+Vinagre, João: Vinagre@Portugal.org: Instituto de Engenharia de Sistemas e Computadores: Portugal
+Borges, Jose: Borges@Portugal.org: Universidade do Porto: Portugal
+Berton, Lilian: Berton@Brazil.org: Universidade Federal de Sao Paulo: Brazil
+Matuszyk, Pawel: Matuszyk@Germany.org: Otto-von-Guericke Universitat Magdeburg: Germany
+Rossi, Rafael: Rossi@Brazil.org: Federal University of Mato Grosso do Sul: Brazil
+Prati, Ronaldo: Prati@Brazil.org: Universidade Federal do ABC: Brazil
+Romano, Sara: Romano@Italy.org: University of Naples Federico II: Italy
+Yu, Yi: Yu@Japan.org: National Institute of Informatics: Japan
+Kumar, Saurabh: Kumar@India.org: Indian Institute of Management Lucknow: India
+Fadimine, Olatunji: Fadimine@Nigeria.org: Ondo State Government: Nigeria
+Carvalho, Ana: Carvalho@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Ruback, Livia: Ruback@Brazil.org: Pontificia Universidade Catolica do Rio de Janeiro: Brazil
+Ruback, Livia: Ruback@Brazil.org: Pontificia Universidade Catolica do Rio de Janeiro: Brazil
+Dubois, Patrick: Dubois@Canada.org: University of Manitoba: Canada
+Peravali, Bindu: Peravali@Canada.org: University of Windsor: Canada
+Gogoglou, Antonia: Gogoglou@Greece.org: Aristotle University of Thessaloniki: Greece
+Renso, Chiara: Renso@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Raffaeta, Alessandra: Raffaeta@Italy.org: University of Venice: Italy
+Lopes, Rui: Lopes@Portugal.org: Instituto de Engenharia de Sistemas e Computadores: Portugal
+Burke, Neil: Burke@Canada.org: Dalhousie University: Canada
+Lalouci, Ali: Lalouci@Algeria.org: Centre Universitaire de Mila: Algeria
+Dehne, Frank: Dehne@Canada.org: Carleton University: Canada
+Abada, Lyes: Abada@Algeria.org: Universite des Sciences et de la Technologie Houari Boumediene: Algeria
+Moura, Maria: Moura@Brazil.org: Embrapa Agriculture Informatics: Brazil
+Nomiya, Hiroki: Nomiya@Japan.org: Kyoto Institute of Technology: Japan
+Hochin, Teruhisa: Hochin@Japan.org: Kyoto Institute of Technology: Japan
+Aouat, Saliha: Aouat@Algeria.org: Universite des Sciences et de la Technologie Houari Boumediene: Algeria
+Del Val Cura, Luis: Del Val Cura@Brazil.org: FACCAMP: Brazil
+Charfi, Manel: Charfi@France.org: Institut National des Sciences Appliquees de Lyon: France
+Gripay, Yann: Gripay@France.org: Institut National des Sciences Appliquees de Lyon: France
+Ventouris, Antonios: Ventouris@Greece.org: University of Western Macedonia: Greece
+Alsharjabi, Omar: Alsharjabi@Egypt.org: Cairo University: Egypt
+Chang, She-i: Chang@Taiwan.org: National Chung Cheng University: Taiwan
+Aridhi, Sabeur: Aridhi@Finland.org: Aalto University: Finland
+Soltanifar, Behjat: Soltanifar@Canada.org: Ryerson University: Canada
+Montresor, Alberto: Montresor@Italy.org: University of Trento: Italy
+Allam, Abla: Allam@Egypt.org: Cairo University: Egypt
+Katsaros, Dimitrios: Katsaros@Greece.org: University of Thessaly: Greece
+Ikeda, Shobu: Ikeda@Japan.org: Ritsumeikan University: Japan
+Sumitani, Haruka: Sumitani@Japan.org: Ritsumeikan University: Japan
+Akbarinasaji, Shirin: Akbarinasaji@Canada.org: Ryerson University: Canada
+El Tazi, Neamat: El Tazi@Egypt.org: Cairo University: Egypt
+Costa, Carlos: Costa@Portugal.org: Universidade do Minho: Portugal
+Gevorgyan, Grigor: Gevorgyan@Armenia.org: Russian-Armenian (Slavonic) State University: Armenia
+Da Silva, Bruno: Da Silva@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Mousheimish, Raef: Mousheimish@France.org: Universite de Versailles Saint-Quentin-en-Yvelines: France
+Saxena, Anuj: Saxena@India.org: National Defence Academy: India
+Peet, Tanel: Peet@Estonia.org: Estonian Information Technology College: Estonia
+Colonna, Juan: Colonna@Brazil.org: Universidade do Amazonas: Brazil
+Noon, Nan Noon: Noon@Australia.org: University of Wollongong: Australia
+Jamil, Hasan: Jamil@USofA.org: University of Idaho: United States
+Costa, Caio: Costa@Brazil.org: Universidade Estadual do Ceara: Brazil
+Wevers, Lesley: Wevers@Netherlands.org: University of Twente: Netherlands
+Coelho Da Silva, Ticiana: Coelho Da Silva@Brazil.org: Federal University of Ceara: Brazil
+Zeitouni, Karine: Zeitouni@France.org: Universite de Versailles Saint-Quentin-en-Yvelines: France
+Fernandes De Macedo, Jose: Fernandes De Macedo@Brazil.org: Federal University of Ceara: Brazil
+Lak, Parisa: Lak@Canada.org: Ryerson University: Canada
+Nalchigar, Soroosh: Nalchigar@Canada.org: University of Toronto: Canada
+Weber, Ingmar: Weber@Qatar.org: Qatar Computing Research Institute: Qatar
+Ismail, Ahmed: Ismail@Egypt.org: Cairo University: Egypt
+Aziz, Md Momin Al: Aziz@Canada.org: University of Manitoba: Canada
+Rajith, Anjali: Rajith@Japan.org: Tokyo Institute of Technology: Japan
+Hasan, Mohammad Zahidul: Hasan@Canada.org: University of Manitoba: Canada
+Alhadidi, Dima: Alhadidi@United Arab Emirates.org: Zayed University: United Arab Emirates
+Bera, Debajyoti: Bera@India.org: Indraprastha Institute of Information Technology: India
+Liu, Jia: Liu@China.org: Beijing University of Technology: China
+Chaoui, Allaoua: Chaoui@Algeria.org: Universite de Constantine 2: Algeria
+Rizzo, Stefano Giovanni: Rizzo@Italy.org: University of Bologna: Italy
+Verma, Amandeep: Verma@India.org: Punjabi University Patiala: India
+Almeida, Ricardo: Almeida@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Maio, Paulo: Maio@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Daniel, Guilherme: Daniel@Brazil.org: Universidade Estadual Paulista: Brazil
+Da Rocha, Ricardo: Da Rocha@Portugal.org: Instituto Politecnico do Porto: Portugal
+Fernandes, Vanessa: Fernandes@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+De Carvalho, Duarte: De Carvalho@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Branco Jr, Eliseu: Branco Jr@Brazil.org: Universidade Federal do Ceara: Brazil
+Maia, Paulo Henrique: Maia@Brazil.org: Universidade Estadual do Ceara: Brazil
+Nabizadeh, Amir Hossein: Nabizadeh@Portugal.org: Universidade do Porto: Portugal
+Zaman, A. N. K.: Zaman@Canada.org: University of Guelph: Canada
+Riazanov, Alexandre: Riazanov@Canada.org: IPSNP Computing Inc: Canada
+Klein, Artjom: Klein@Canada.org: IPSNP Computing Inc: Canada
+Boukhalfa, Kamel: Boukhalfa@Algeria.org: Universite des Sciences et de la Technologie Houari Boumediene: Algeria
+Yu, Yi: Yu@Japan.org: National Institute of Informatics: Japan
+Grams, Daniela: Grams@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Khan, Changez: Khan@Pakistan.org: Institute of Management Sciences, Peshawar: Pakistan
+Richter, Ingo: Richter@Germany.org: Fachhochschule Munchen: Germany
+Toledo, Saulo: Toledo@Brazil.org: Universidade Federal de Campina Grande: Brazil
+Saleiro, Pedro: Saleiro@Portugal.org: Universidade do Porto: Portugal
+Silva, Rui: Silva@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Freitas Camacho, Pedro: Freitas Camacho@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Laurent, Thomas: Laurent@Japan.org: Keio University: Japan
+Donega Zafalon, Geraldo: Donega Zafalon@Brazil.org: Universidade Estadual Paulista: Brazil
+Pedrosa, Isabel: Pedrosa@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Raith, Florian: Raith@Germany.org: Fachhochschule Munchen: Germany
+Dammak, Salma: Dammak@Tunisia.org: Universite de Sfax: Tunisia
+Carvalhas, André: Carvalhas@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Pasquali, Arian: Pasquali@Brazil.org: Request Pending: Brazil
+Psaila, Giuseppe: Psaila@Italy.org: University of Bergamo: Italy
+Toccu, Maurizio: Toccu@Italy.org: University of Bergamo: Italy
+Hannech, Amel: Hannech@Canada.org: University of Quebec at Chicoutimi: Canada
+Pasquali, Arian: Pasquali@Portugal.org: Instituto de Engenharia de Sistemas e Computadores: Portugal
+Pasqualin, Diego: Pasqualin@Brazil.org: Universidade Federal do Parana: Brazil
+Barroso, Sara: Barroso@Portugal.org: Instituto Politecnico do Porto: Portugal
+Sánchez Salvador, Manuel: Sánchez Salvador@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Buratti, Eduardo: Buratti@Brazil.org: Universidade Federal do Parana: Brazil
+Hahmann, Martin: Hahmann@Germany.org: Technische Universitat Dresden: Germany
+Marinica, Clauida: Marinica@France.org: Universite de Cergy-Pontoise: France
+Leboucher, Elise: Leboucher@France.org: Laboratoire de recherche des monuments historiques: France
+Didonet Del Fabro, Marcos: Didonet Del Fabro@Brazil.org: Universidade Federal do Parana: Brazil
+Bouiller, Luc: Bouiller@France.org: Research and Restoration Center of French Museums: France
+Weingaertner, Daniel: Weingaertner@Brazil.org: Universidade Federal do Parana: Brazil
+Manashty, Alireza: Manashty@Canada.org: University of New Brunswick: Canada
+Adda, Mehdi: Adda@Canada.org: University of Quebec at Rimouski: Canada
+Perera, Kasun: Perera@Germany.org: Technische Universitat Dresden: Germany
+Norouzimahalli, Mohammadhossein: Norouzimahalli@Canada.org: University of New Brunswick, Saint John: Canada
+Ramalho, Franklin: Ramalho@Brazil.org: Universidade Federal de Campina Grande: Brazil
+Zehra, Durre: Zehra@Ireland.org: National University of Ireland, Galway: Ireland
+Lettich, Francesco: Lettich@Italy.org: University of Venice: Italy
+Orlando, Salvatore: Orlando@Italy.org: University of Venice: Italy
+Mondal, Amit: Mondal@Canada.org: University of Saskatchewan: Canada
+Mcheick, Hamid: Mcheick@Canada.org: University of Quebec at Chicoutimi: Canada
+Labbadi, Wissem: Labbadi@Tunisia.org: Université de Tunis: Tunisia
+Adla, Abdelkader: Adla@Algeria.org: Universite d'Oran Es-Senia: Algeria
+Machado, Javam: Machado@Brazil.org: Universidade Federal do Ceara: Brazil
+Huynh, Tho: Huynh@Vietnam.org: Da Nang University: Vietnam
+Batista, Viviana: Batista@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Almeida, Ana: Almeida@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Amorim, Ricardo: Amorim@Portugal.org: Universidade do Porto: Portugal
+Ventura, Susana: Ventura@Portugal.org: Universidade do Porto: Portugal
+Rocha, Artur: Rocha@Portugal.org: Instituto de Engenharia Sistemas e Computadores, Tecnlologia e CiÃªncia: Portugal
+Oliveira, Marco: Oliveira@Portugal.org: Instituto de Engenharia de Sistemas e Computadores: Portugal
+Rocha, Manuel: Rocha@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Lopes, Cláudio: Lopes@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Camacho, Pedro: Camacho@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Silva, Rodrigo: Silva@Brazil.org: Sao Paulo State Technological College: Brazil
+Santos, Sérgio: Santos@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Baptista, António: Baptista@Portugal.org: Iberia Advanced Healthcare: Portugal
+Rodrigues, Mário: Rodrigues@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Leal, Fátima: Leal@Spain.org: Universidad de Vigo: Spain
+Santos, Filipe: Santos@Portugal.org: Instituto Politecnico do Porto: Portugal
+Burguillo, Juan: Burguillo@Spain.org: Universidad de Vigo: Spain
+Dias, Joana: Dias@Portugal.org: Universidade de Coimbra: Portugal
+Canavarro, Marcela: Canavarro@Portugal.org: Universidade do Porto: Portugal
+Das Neves, Sofia: Das Neves@Portugal.org: Universidade do Minho: Portugal
+Leite, Diogo: Leite@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Oliveira, Tiago: Oliveira@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Nunes, Helder: Nunes@Portugal.org: Instituto Politecnico do Porto: Portugal
+Amoud, Mohamed: Amoud@Morocco.org: Universite Mohammed V - Agdal: Morocco
+Pinto, Mike: Pinto@Portugal.org: Universidade do Porto: Portugal
+Teixeira, Jorge: Teixeira@Portugal.org: Universidade do Porto: Portugal
+Barroso, João: Barroso@Portugal.org: Universidade de Tras-os-Montes e Alto Douro: Portugal
+Castro E Silva, Roney: Castro E Silva@Brazil.org: Universidade Federal do Ceara: Brazil
+Contreras, Lidia: Contreras@Spain.org: Universidad Politecnica de Valencia: Spain
+Martinez Plumed, Fernando: Martinez Plumed@Spain.org: Universidad Politecnica de Valencia: Spain
+Zhani, Mohamed Faten: Zhani@Canada.org: École de technologie supérieure - Université du Québec: Canada
+Boumedine, Marc: Boumedine@Virgin Islands(U.S.).org: University of the Virgin Islands: Virgin Islands(U.S.)
+Reimer, Vanessa: Reimer@Canada.org: University of Manitoba: Canada
+Bernhard, Shelby: Bernhard@Canada.org: University of Manitoba: Canada
+Westlake, Josh: Westlake@Canada.org: University of Manitoba: Canada
+Barreiros, Jorge: Barreiros@Portugal.org: Instituto Superior de Engenharia de Coimbra: Portugal
+Ozsu, M. Tamer: Ozsu@Canada.org: University of Waterloo: Canada
+Costa, Cristina: Costa@Portugal.org: Instituto Politecnico de Coimbra: Portugal
+Luk, Wo-shun: Luk@Canada.org: Simon Fraser University: Canada
+Dutra, Inês: Dutra@Portugal.org: Universidade do Porto: Portugal
+Côrte-real, Joana: Côrte-real@Portugal.org: Universidade do Porto: Portugal
+Salvini, Rogerio: Salvini@Brazil.org: Universidade Federal de Goias: Brazil
+Ferreira, Pedro: Ferreira@Portugal.org: Instituto de Engenharia Sistemas e Computadores, Tecnlologia e CiÃªncia: Portugal
+Asif, Amir: Asif@Canada.org: Ryerson University: Canada
+Marques, Bertil: Marques@Portugal.org: Instituto Superior de Engenharia do Porto: Portugal
+Magalhães, Arlino: Magalhães@Brazil.org: Universidade Federal do Ceara: Brazil
+Hong, Jun: Hong@United Kingdom.org: Queen's University Belfast: United Kingdom
+Han, Jaiwei: Han@USofA.org: University of Illinois: United States
+Ihshaish, Hisham: Ihshaish@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Sharma, Rajesh: Sharma@United Kingdom.org: Queen's University Belfast: United Kingdom
+Mcconville, Ryan: Mcconville@United Kingdom.org: University of Bristol: United Kingdom
+Mcareavey, Kevin: Mcareavey@United Kingdom.org: Queen's University Belfast: United Kingdom
+Gaster, Benedict: Gaster@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Arabo, Abdullahi: Arabo@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Atif, Muhammad: Atif@Australia.org: Australian National University: Australia
+Hammad, Rawad: Hammad@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Tahir, Muhammad: Tahir@Pakistan.org: National University of Computer & Emerging Sciences: Pakistan
+Pereira Junior, Vilmar: Pereira Junior@Brazil.org: Universidade Federal de Santa Catarina: Brazil
+Mazuran, Mirjana: Mazuran@Italy.org: POLITECNICO DI MILANO: Italy
+Dong, Boxiang: Dong@USofA.org: Montclair State University: United States
+Dong, Changyu: Dong@United Kingdom.org: Newcastle University: United Kingdom
+Chikhaoui, Belkacem: Chikhaoui@Canada.org: University of Sherbrooke: Canada
+Shao, Jianhua: Shao@United Kingdom.org: Cardiff University: United Kingdom
+Loukides, Grigorios: Loukides@United Kingdom.org: King's College London, University of London: United Kingdom
+Munir, Kamran: Munir@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Faraj, Youssef: Faraj@Canada.org: FleetMind Solutions: Canada
+Khan, Zaheer: Khan@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Aiyegbusi, Akintunde: Aiyegbusi@Nigeria.org: First Hightower Infotech Limited: Nigeria
+Singh, Mandeep: Singh@India.org: Punjabi University Patiala: India
+Huang, Yuan-ko: Huang@Taiwan.org: National Kaohsiung Marine University: Taiwan
+Dou, Chenxiao: Dou@Australia.org: University of New South Wales: Australia
+Omar, Yasser: Omar@Egypt.org: Arab Academy for Science & Technology: Egypt
+Longchamps, Samuel: Longchamps@Canada.org: University of Sherbrooke: Canada
+Padiya, Trupti: Padiya@India.org: Dhirubhai Ambani Institute for Information and Communication Technology: India
+Abd-allah, Marwa: Abd-allah@Egypt.org: Cairo University: Egypt
+El-beltagy, Samhaa  R.: El-beltagy@Egypt.org: Nile University: Egypt
+Salah, Akram: Salah@Egypt.org: Cairo University: Egypt
+Shi, Yilong: Shi@China.org: Wuhan University of Technology: China
+Galvão, João: Galvão@Portugal.org: Universidade do Minho: Portugal
+Martinho, Bruno: Martinho@Portugal.org: Universidade do Minho: Portugal
+Andrade, Carina: Andrade@Portugal.org: Universidade do Minho: Portugal
+Lima, Francisca: Lima@Portugal.org: Universidade do Minho: Portugal
+Costa, Eduarda: Costa@Portugal.org: Universidade do Minho: Portugal
+Bhise, Minal: Bhise@India.org: Dhirubhai Ambani Institute for Information and Communication Technology: India
+El-kilany, Ayman: El-kilany@Egypt.org: Cairo University: Egypt
+Takimoto, Yoshiaki: Takimoto@Japan.org: Nagoya University: Japan
+Sugiura, Kento: Sugiura@Japan.org: Nagoya University: Japan
+Ho, Chu: Ho@Taiwan.org: National Cheng Kung University: Taiwan
+Ishikawa, Yoshiharu: Ishikawa@Japan.org: Nagoya University: Japan
+Mahmoud, Mahmoud: Mahmoud@Egypt.org: Cairo University: Egypt
+Jaramillo Acevedo, Cesar: Jaramillo Acevedo@Colombia.org: Universidad Tecnologica de Pereira: Colombia
+Chedella, Prem: Chedella@Saudi Arabia.org: King Abdullah University of Science and Technology: Saudi Arabia
+Ouaknine, Keren: Ouaknine@Israel.org: Hebrew University of Jerusalem: Israel
+De Freitas, Miguel: De Freitas@Portugal.org: Universidade de Coimbra: Portugal
+Patgiri, Ripon: Patgiri@India.org: National Institute of Technology Silchar: India
+Cherniak, Ramblin: Cherniak@USofA.org: University of Michigan - Dearborn: United States
+Ergenc Bostanoglu, Belgin: Ergenc Bostanoglu@Turkey.org: Izmir Institute of Technology: Turkey
+Abuzayed, Nourhan: Abuzayed@Turkey.org: Izmir Institute of Technology: Turkey
+El Khchine, Younes: El Khchine@Morocco.org: Université Sidi Mohammed Ben Abdellah Fès: Morocco
+Kotel, Sonia: Kotel@Tunisia.org: University of Sousse: Tunisia
+Magalhães, Rômulo: Magalhães@Brazil.org: Pontificia Universidade Catolica do Rio de Janeiro: Brazil
+Tzouramanis, Theodoros: Tzouramanis@Greece.org: University of the Aegean: Greece
+Fazzinga, Bettina: Fazzinga@Italy.org: Consiglio Nazionale delle Ricerche: Italy
+Flesca, Sergio: Flesca@Italy.org: University of Calabria: Italy
+Binh, Nguyen: Binh@France.org: Universite d'Orleans: France
+Markhoff, Beatrice: Markhoff@France.org: Universite Francois Rabelais de Tours: France
+Araújo, Tiago: Araújo@Brazil.org: Universidade Federal de Campina Grande: Brazil
+Pires, Carlos: Pires@Brazil.org: Universidade Federal de Campina Grande: Brazil
+Cappiello, Cinzia: Cappiello@Italy.org: POLITECNICO DI MILANO: Italy
+Mestre, Demetrio: Mestre@Brazil.org: Universidade Federal de Campina Grande: Brazil
+Vitali, Monica: Vitali@Italy.org: POLITECNICO DI MILANO: Italy
+Sedlák, Jan: Sedlák@Czech Repubilc.org: Masaryk University: Czech Repubilc
+Trois, Celio: Trois@Brazil.org: Universidade Federal do Parana: Brazil
+De Bona, Luis Carlos: De Bona@Brazil.org: Universidade Federal do Parana: Brazil
+Kosaka, Yusuke: Kosaka@Japan.org: Keio University: Japan
+Maciel, Edemir: Maciel@Brazil.org: Universidade Federal do Parana: Brazil
+Zhu, Qiang: Zhu@USofA.org: University of Michigan - Dearborn: United States
+Gu, Yarong: Gu@USofA.org: University of Michigan - Dearborn: United States
+Oliveira, Luis: Oliveira@Brazil.org: Universidade Estadual de Londrina: Brazil
+Leeka, Jyoti: Leeka@India.org: Indraprastha Institute of Information Technology: India
+Murakami, Shu: Murakami@Japan.org: Keio University: Japan
+Tissot, Hegler: Tissot@Brazil.org: Universidade Federal do Parana: Brazil
+Taufen, Benjamin: Taufen@USofA.org: University of St. Thomas, St. Paul: United States
+Sun, Daniel: Sun@Australia.org: CSIRO: Australia
+Fei, Si: Fei@USofA.org: University of Michigan - Flint: United States
+Belaazi, Maherzia: Belaazi@Tunisia.org: Universite de 7 Novembre a Carthage: Tunisia
+Nouaouria, Nabila: Nouaouria@Algeria.org: Universite d'Annaba: Algeria
+Howlader, Prantik: Howlader@India.org: Cisco Systems, Inc India: India
+Pal, Kuntal: Pal@India.org: Cavium Networks: India
+Moussa, Rim: Moussa@Tunisia.org: Universite de 7 Novembre a Carthage: Tunisia
+Ghate, Pinak: Ghate@India.org: University of Pune: India
+Abdennadher, Imen: Abdennadher@Tunisia.org: Universite de Sfax: Tunisia
+Wiese, Lena: Wiese@Germany.org: Georg-August Universitat Gottingen: Germany
+Bollwein, Ferdinand: Bollwein@Germany.org: Technische Universitat Clausthal: Germany
+Thion, Virginie: Thion@France.org: Universite Rennes I: France
+Aldughayfiq, Bader: Aldughayfiq@Canada.org: Dalhousie University: Canada
+Bouchakwa, Mariam: Bouchakwa@Tunisia.org: Universite de Sfax: Tunisia
+Amous, Ikram: Amous@Tunisia.org: Universite de Sfax: Tunisia
+Mendonca, Andre Luis: Mendonca@Brazil.org: Universidade Federal do Ceara: Brazil
+Brito, Felipe: Brito@Brazil.org: Universidade Federal do Ceara: Brazil
+Leal, Bruno: Leal@Brazil.org: Universidade Federal do Ceara: Brazil
+Battle, Steve: Battle@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Ajanovski, Vangel: Ajanovski@Macedonia.org: St.Cyril and Methodius University: Macedonia
+Rahmouni, Hanen: Rahmouni@Tunisia.org: Universite de 7 Novembre a Carthage: Tunisia
+Javed, Barkha: Javed@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Kamel, Oussama: Kamel@Algeria.org: Universite de Constantine 2: Algeria
+Kaster, Daniel: Kaster@Brazil.org: Universidade Estadual de Londrina: Brazil
+Barki, Chamseddine: Barki@Tunisia.org: Universite de Tunis El Manar: Tunisia
+Heinrich, Dennis: Heinrich@Germany.org: Medizinische Hochschule Hannover: Germany
+Kachroudi, Marouen: Kachroudi@Tunisia.org: Universite de Tunis El Manar: Tunisia
+Almeida, Ana Carolina: Almeida@Brazil.org: Universidade do Estado do Rio de Janeiro: Brazil
+Darrab, Sadeq: Darrab@Turkey.org: Izmir Institute of Technology: Turkey
+Vignan, Igor: Vignan@Canada.org: Double V Solutions: Canada
+Ayodele, Adefemi: Ayodele@Nigeria.org: Ladoke Akintola University Of technology: Nigeria
+Zemmal, Nawel: Zemmal@Algeria.org: Universite d'Annaba: Algeria
+Ormsby, Matthew: Ormsby@Jamaica.org: University of the West Indies, Mona: Jamaica
+Gharzouli, Mohamed: Gharzouli@Algeria.org: Universite de Constantine 2: Algeria
+Kimm, Haklin: Kimm@USofA.org: East Stroudsburg State University: United States
+Chavarro Porras, Julio: Chavarro Porras@Colombia.org: Universidad Tecnologica de Pereira: Colombia
+Asaduzzaman, Md: Asaduzzaman@Canada.org: Memorial University of Newfoundland: Canada
+Li, Zuqing: Li@USofA.org: East Stroudsburg State University: United States
+Qaddoumi, Eman: Qaddoumi@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Arapasowu, Emmanuel: Arapasowu@South Africa.org: EMAFOX COMMUNICATIONS: South Africa
+Lai, Chuan-chi: Lai@Taiwan.org: National Chiao Tung University: Taiwan
+Butin, Denis: Butin@Germany.org: Technische Universitat Darmstadt: Germany
+Yadav, Rimmy: Yadav@India.org: Lovely Professional university: India
+Enayet, Ayesha: Enayet@Pakistan.org: Balochistan University of Information Technology & Management Sciences: Pakistan
+Dagher, Gaby: Dagher@USofA.org: Boise State University: United States
+Samaha Rupert, Maya: Samaha Rupert@Lebanon.org: Notre Dame University: Lebanon
+Hawi, Nazir: Hawi@Lebanon.org: Notre Dame University: Lebanon
+Costa, Carlos: Costa@Portugal.org: Instituto Superior de Ciencias do Trabalho e da Empresa: Portugal
+Faltin, Tomas: Faltin@Czech Repubilc.org: Charles University Prague: Czech Repubilc
+Chung, Young Seok: Chung@Korea Republic.org: Electronics and Telecommunications Research Institute: Korea Republic
+Gupta, Varun: Gupta@India.org: Canon Inc. India: India
+Rana, Omer: Rana@United Kingdom.org: Cardiff University: United Kingdom
+Kacou, Blais: Kacou@Ivory Coast.org: Webb Fontaine: Ivory Coast
+Chittimalla, Anil: Chittimalla@India.org: Jawaharlal Nehru Technological University: India
+ States
+Belaazi, Maherzia: Belaazi@Tunisia.org: Universite de 7 Novembre a Carthage: Tunisia
+Nouaouria, Nabila: Nouaouria@Algeria.org: Universite d'Annaba: Algeria
+Howlader, Prantik: Howlader@India.org: Cisco Systems, Inc India: India
+Pal, Kuntal: Pal@India.org: Cavium Networks: India
+Moussa, Rim: Moussa@Tunisia.org: Universite de 7 Novembre a Carthage: Tunisia
+Ghate, Pinak: Ghate@India.org: University of Pune: India
+Abdennadher, Imen: Abdennadher@Tunisia.org: Universite de Sfax: Tunisia
+Wiese, Lena: Wiese@Germany.org: Georg-August Universitat Gottingen: Germany
+Bollwein, Ferdinand: Bollwein@Germany.org: Technische Universitat Clausthal: Germany
+Thion, Virginie: Thion@France.org: Universite Rennes I: France
+Aldughayfiq, Bader: Aldughayfiq@Canada.org: Dalhousie University: Canada
+Bouchakwa, Mariam: Bouchakwa@Tunisia.org: Universite de Sfax: Tunisia
+Amous, Ikram: Amous@Tunisia.org: Universite de Sfax: Tunisia
+Mendonca, Andre Luis: Mendonca@Brazil.org: Universidade Federal do Ceara: Brazil
+Brito, Felipe: Brito@Brazil.org: Universidade Federal do Ceara: Brazil
+Leal, Bruno: Leal@Brazil.org: Universidade Federal do Ceara: Brazil
+Battle, Steve: Battle@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Ajanovski, Vangel: Ajanovski@Macedonia.org: St.Cyril and Methodius University: Macedonia
+Rahmouni, Hanen: Rahmouni@Tunisia.org: Universite de 7 Novembre a Carthage: Tunisia
+Javed, Barkha: Javed@United Kingdom.org: University of the West of England, Bristol: United Kingdom
+Kamel, Oussama: Kamel@Algeria.org: Universite de Constantine 2: Algeria
+Kaster, Daniel: Kaster@Brazil.org: Universidade Estadual de Londrina: Brazil
+Barki, Chamseddine: Barki@Tunisia.org: Universite de Tunis El Manar: Tunisia
+Heinrich, Dennis: Heinrich@Germany.org: Medizinische Hochschule Hannover: Germany
+Kachroudi, Marouen: Kachroudi@Tunisia.org: Universite de Tunis El Manar: Tunisia
+Almeida, Ana Carolina: Almeida@Brazil.org: Universidade do Estado do Rio de Janeiro: Brazil
+Darrab, Sadeq: Darrab@Turkey.org: Izmir Institute of Technology: Turkey
+Vignan, Igor: Vignan@Canada.org: Double V Solutions: Canada
+Ayodele, Adefemi: Ayodele@Nigeria.org: Ladoke Akintola University Of technology: Nigeria
+Zemmal, Nawel: Zemmal@Algeria.org: Universite d'Annaba: Algeria
+Ormsby, Matthew: Ormsby@Jamaica.org: University of the West Indies, Mona: Jamaica
+Gharzouli, Mohamed: Gharzouli@Algeria.org: Universite de Constantine 2: Algeria
+Kimm, Haklin: Kimm@USofA.org: East Stroudsburg State University: United States
+Chavarro Porras, Julio: Chavarro Porras@Colombia.org: Universidad Tecnologica de Pereir
